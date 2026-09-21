@@ -1,0 +1,242 @@
+{
+  "api_version": 1,
+  "entries": [
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "forest-piano",
+        "name": "Forest Piano",
+        "version": "1.0.0",
+        "author": "Atsukoro",
+        "license": "CC0-1.0",
+        "source": "https://konachan.com/post/show/375564",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": []
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/themes/forest-piano.serein-extension",
+      "sha256": "3fffa784b2f406b4ad435fa5804baa1bed9ead9682254546ccf332c2bae12505",
+      "download_bytes": 6452658,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "serein-forest",
+        "name": "Forest",
+        "version": "1.0.0",
+        "author": "Serein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/rustcord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/themes/forest.serein-extension",
+      "sha256": "af5446105f3620961e74a7c358feffad19aa9e1ccc4ab6b998003a12bd72d72f",
+      "download_bytes": 1456,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "golden-theme",
+        "name": "Golden Theme",
+        "version": "1.0.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/ViceVerse-cz/Serein",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/themes/golden.serein-extension",
+      "sha256": "0018a46e9c5e4d0431ba02a860b3d7deffab9c159c5d52e04928421ccb3be586",
+      "download_bytes": 1794,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "black-theme",
+        "name": "BlackTheme",
+        "version": "1.1.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/ViceVerse-cz/Serein",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/themes/katana.serein-extension",
+      "sha256": "cf4ef3755d9208e700ee721b66edad3fceb4f26e52d09b82e645bf49070f1a15",
+      "download_bytes": 994,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "serein-latte",
+        "name": "Latte",
+        "version": "1.0.0",
+        "author": "Serein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/rustcord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/themes/latte.serein-extension",
+      "sha256": "4717d418dd275a83f33aa513cac04ea03c49edccc8d67e5840655fc22ddd65d4",
+      "download_bytes": 1454,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "serein-midnight",
+        "name": "Midnight",
+        "version": "1.0.0",
+        "author": "Serein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/rustcord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/themes/midnight.serein-extension",
+      "sha256": "006997c86297b1cb9e87188f712ab2c0d6017ee97c44270306afe50a71bb4308",
+      "download_bytes": 1460,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "obsidian-theme",
+        "name": "Obsidian Theme",
+        "version": "1.0.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/ViceVerse-cz/Serein",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/themes/obsidian.serein-extension",
+      "sha256": "e42cb1ad38f0c495375343bb8e64852ccb98a5a860293cd9ce3a86bbec1f0dd5",
+      "download_bytes": 1838,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "serein-ocean",
+        "name": "Ocean",
+        "version": "1.0.0",
+        "author": "Serein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/rustcord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/themes/ocean.serein-extension",
+      "sha256": "ec95e43e6167d95393b279062b41587408ad270ebcc61a5eed2a71865c8387cd",
+      "download_bytes": 960,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28",
+      "preview": {
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/previews/ocean.png",
+        "sha256": "7fd9532d983c52ec9f86a345d23e2c6822597ca29a34833958be816e0bcc1913",
+        "download_bytes": 85376
+      }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "serein-rose",
+        "name": "Rose",
+        "version": "1.0.0",
+        "author": "Serein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/rustcord",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/themes/rose.serein-extension",
+      "sha256": "dbdd5a98f46559d107f26501308029e38e8fb68cc74ef23aa18baf9552cd139f",
+      "download_bytes": 1452,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "soft-white",
+        "name": "Soft White Theme",
+        "version": "1.0.0",
+        "author": "a1.lol",
+        "license": "CC0-1.0",
+        "source": "https://github.com/ViceVerse-cz/Serein",
+        "kind": "theme",
+        "capabilities": [],
+        "actions": []
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/themes/soft-white.serein-extension",
+      "sha256": "e981bf8d1230bf540e531d49eecde1f06769e635b55ba2b4eb376dab668248a0",
+      "download_bytes": 5860518,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "teal-theme",
+        "name": "Teal Theme",
+        "version": "1.0.0",
+        "author": "a1.lol",
+        "license": "MIT",
+        "source": "https://github.com/ViceVerse-cz/Serein",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/themes/teal.serein-extension",
+      "sha256": "1c794d14b12bb470164e2c220051de7c20b13de8175390595a559f551bb6409a",
+      "download_bytes": 1827,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "emoji-sticker-images",
+        "name": "Emoji & Sticker Images",
+        "version": "1.0.0",
+        "author": "Serein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein",
+        "kind": "plugin",
+        "capabilities": [
+          "image_sharing"
+        ],
+        "actions": [
+          {
+            "id": "activate",
+            "label": "Enable image attachments",
+            "surface": "activation"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/plugins/packages/emoji-sticker-images.serein-extension",
+      "sha256": "f2c3ce66659f88bd7a576f8288e9bbfa04a78378f0828cd6a065aace51f3a90f",
+      "download_bytes": 205642,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "message-delete-protector",
+        "name": "Message delete protector",
+        "version": "1.0.0",
+        "author": "Serein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein",
+        "kind": "plugin",
+        "capabilities": [
+          "deleted_messages"
+        ],
+        "actions": [
+          {
+            "id": "activate",
+            "label": "Protect loaded messages",
+            "surface": "activation"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d9c08811e5410932914ee9369faeab5dd4491b28/plugins/packages/message-delete-protector.serein-extension",
+      "sha256": "dffd601e3b85b17ae9bacc6deedc526e225c3ee81072ee5e8e64981da03bf6f9",
+      "download_bytes": 338103,
+      "source_commit": "d9c08811e5410932914ee9369faeab5dd4491b28"
+    }
+  ]
+}
