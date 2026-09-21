@@ -16,7 +16,7 @@ Catalog tooling uses Python's standard library and checks identities, capabiliti
 It intentionally does not duplicate Serein's complete theme schema or Wasm sandbox validation. The client performs canonical `extensions::parse_package` validation and sandbox checks before installation.
 For a new package version, validate it with that parser and review its source and build before publishing.
 
-PNG previews in `previews/` share the package filename stem and must fit 256 KiB. All current packages have previews: Ocean retains its original screenshot, Forest Piano and Soft White use downscaled package covers, and the other themes/plugins use labeled palette/feature illustrations. Full-size covers remain embedded in their packages.
+PNG previews in `previews/` share the package filename stem and must fit 256 KiB. All current packages have previews: Ocean retains its original screenshot, Forest Piano and Soft White use downscaled package covers, and the other themes/plugins use rendered previews of the client's synthetic workspace. Full-size covers remain embedded in their packages.
 
 ## Imported plugin build evidence
 
