@@ -78,3 +78,9 @@ For catalog inclusion, submit a manifest, source commit (40/64 hex), immutable H
 URL, exact `download_bytes`, and SHA-256. Maintainers must review the source and built
 artifact together before listing that version. These examples are source templates, not
 an automatic trust designation. All versions and updates require explicit user consent.
+
+## Custom Rich Presence (preview)
+
+See [Custom RPC](custom-rpc/README.md) for setup and builds. Requires the preview
+rich-presence SDK from Serein PR #465. Install through the shared catalog or import
+the package locally. Older clients without this capability cannot install it.

@@ -20,10 +20,14 @@ PNG previews in `previews/` share the package filename stem and must fit 256 KiB
 
 ## Imported plugin build evidence
 
-Both plugins build from the included locked workspace with Rust 1.98.1 for `wasm32-unknown-unknown`.
+The two original plugins build from the included locked workspace with Rust 1.98.1 for `wasm32-unknown-unknown`.
 Emoji & Sticker Images reproduces the imported 70,629-byte Wasm exactly.
 The imported Message delete protector contains 115,250 bytes of Wasm; the current source/SDK builds 70,629 bytes and does not reproduce that older artifact byte-for-byte.
 The existing distributed package is intentionally preserved. A future release should review and version a rebuilt artifact together with its source; this import is not a claim of reproducibility for that older package.
+
+Custom Rich Presence builds from `plugins/custom-rpc` with a commit-pinned preview
+SDK from Serein PR #465. Its catalog preview is the native editor rendered with
+synthetic offline data, not live Discord compatibility evidence.
 
 ## Provenance and licenses
 

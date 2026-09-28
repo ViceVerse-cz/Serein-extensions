@@ -1,0 +1,16 @@
+[package]
+name = "custom-rpc"
+version = "1.0.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+serde.workspace = true
+serde_json.workspace = true
+serein-extension-sdk = { git = "https://github.com/ViceVerse-cz/Serein.git", rev = "5940d3b400cea9f793c7ee92a0ea369f74031695" }
+
+[dev-dependencies]
+extensions = { git = "https://github.com/ViceVerse-cz/Serein.git", rev = "5940d3b400cea9f793c7ee92a0ea369f74031695" }
