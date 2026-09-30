@@ -9,7 +9,11 @@ assert catalog.validate(theme)["id"] == "serein-ocean"
 assert catalog.validate(plugin)["kind"] == "plugin"
 rpc = (catalog.ROOT / "plugins/packages/custom-rpc.serein-extension").read_bytes()
 assert catalog.validate(rpc)["capabilities"] == ["rich_presence", "storage"]
+proxy = (catalog.ROOT / "plugins/packages/api-proxy.serein-extension").read_bytes()
+assert catalog.validate(proxy)["capabilities"] == ["api_proxy", "storage"]
 for data, mutate in (
+    (proxy, lambda p: p["manifest"].update(capabilities=["api_proxy", "composer"])),
+    (proxy, lambda p: p["manifest"]["actions"][0].update(surface="message")),
     (theme, lambda p: p["manifest"].update(id="../escape")),
     (theme, lambda p: p["manifest"].update(capabilities=["composer"])),
     (theme, lambda p: p.update(cover_image=[256])),

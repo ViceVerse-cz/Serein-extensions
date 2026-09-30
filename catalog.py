@@ -10,7 +10,7 @@ from pathlib import Path
 from urllib.parse import urlsplit
 
 ROOT = Path(__file__).resolve().parent
-CAPABILITIES = {"selected_message", "composer", "storage", "deleted_messages", "image_sharing", "appearance", "rich_presence"}
+CAPABILITIES = {"selected_message", "composer", "storage", "deleted_messages", "image_sharing", "appearance", "rich_presence", "api_proxy"}
 RESERVED = {"con", "prn", "aux", "nul"} | {f"{prefix}{n}" for prefix in ("com", "lpt") for n in range(1, 10)}
 
 
@@ -38,6 +38,8 @@ def validate(data):
     require(isinstance(capabilities, list) and len(capabilities) <= 4 and len(set(capabilities)) == len(capabilities) and set(capabilities) <= CAPABILITIES, "invalid capabilities")
     require(isinstance(actions, list) and len(actions) <= 16 and len({a["id"] for a in actions}) == len(actions), "invalid action list")
     require(sum(a["surface"] == "activation" for a in actions) <= 1, "multiple activation actions")
+    if "api_proxy" in capabilities:
+        require(set(capabilities) <= {"api_proxy", "storage"} and all(a["surface"] in ("panel", "activation") for a in actions), "API proxy requires connection-only actions and capabilities")
     for action in actions:
         require(valid_id(action["id"]) and action["surface"] in ("message", "composer", "panel", "activation"), "invalid action")
         label = action["label"]

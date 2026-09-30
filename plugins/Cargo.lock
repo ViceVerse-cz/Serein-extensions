@@ -3,6 +3,13 @@
 version = 4
 
 [[package]]
+name = "api-proxy"
+version = "1.0.0"
+dependencies = [
+ "serein-extension-sdk 0.1.0 (git+https://github.com/ViceVerse-cz/Serein.git?rev=910ae8994747e7dbae433cce9011ac04eefdd635)",
+]
+
+[[package]]
 name = "bitflags"
 version = "2.13.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -320,6 +327,16 @@ source = "git+https://github.com/ViceVerse-cz/Serein.git?rev=5940d3b400cea9f793c
 dependencies = [
  "serde",
  "serde_json",
+]
+
+[[package]]
+name = "serein-extension-sdk"
+version = "0.1.0"
+source = "git+https://github.com/ViceVerse-cz/Serein.git?rev=910ae8994747e7dbae433cce9011ac04eefdd635#910ae8994747e7dbae433cce9011ac04eefdd635"
+dependencies = [
+ "serde",
+ "serde_json",
+ "url",
 ]
 
 [[package]]
