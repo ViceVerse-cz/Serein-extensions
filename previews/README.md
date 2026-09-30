@@ -24,3 +24,13 @@ cargo run --locked -p serein --features demo --example profile_preview -- --demo
 Synthetic UI previews use the repository's MIT OR Apache-2.0 license. Package
 bytes are unchanged. To replace a preview, commit its PNG and regenerate the catalog
 as described in the root README so its URL, SHA-256, and byte count stay pinned.
+
+`api-proxy.png` renders the API Proxy package's actual native extension panel with
+synthetic offline data through the same `profile_preview` framebuffer pipeline.
+It is not an OS window capture, a drawn mockup, or proof of live proxy connectivity.
+No account or proxy credentials are used in this preview. Reproduce using a Serein
+revision with the API Proxy host support:
+
+```sh
+SEREIN_PREVIEW_PACKAGE=/path/to/plugins/packages/api-proxy.serein-extension cargo run --locked -p serein --features demo --example profile_preview -- --demo --extension=api-proxy --width=1280 --height=720 --thumbnail --output=api-proxy.png
+```
