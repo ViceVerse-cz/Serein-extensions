@@ -1,6 +1,6 @@
 # API Proxy (preview)
 
-Configure a credential-free HTTP/HTTPS forward proxy for Discord REST API requests
+Configure an HTTP/HTTPS forward proxy for Discord REST API requests
 through Serein's native extension panel. Gateway/WebSocket traffic, CDN/media and
 voice calls remain direct. This is not a way to proxy calls.
 
@@ -15,6 +15,13 @@ voice calls remain direct. This is not a way to proxy calls.
    silent switch to Direct; explicitly disable and re-enable the plugin to remove
    invalid saved settings, then configure and Apply the proxy again.
    Disabling the plugin restores Direct mode.
+5. For HTTP Basic proxy authentication, expand Serein's host-managed **Proxy authentication**
+   section, enter a username and masked password, then **Save credentials**. Apply the URL
+   first. Serein stores credentials only in the OS credential store and attaches them only
+   to that exact proxy origin; the plugin never receives them. **Remove saved credentials**
+   erases the OS entry. Direct mode and plugin disable stop using credentials but retain
+   the OS entry. Automatic mode does not support credential-bearing environment URLs.
+   A credential-store failure has no plaintext fallback.
 
 This is a global connection setting, not an account preference. The proxy can see
 connection destinations, and an HTTP forward proxy sees plaintext HTTP requests;
