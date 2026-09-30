@@ -1,0 +1,11 @@
+[package]
+name = "api-proxy"
+version = "1.0.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+serein-extension-sdk = { git = "https://github.com/ViceVerse-cz/Serein.git", rev = "910ae8994747e7dbae433cce9011ac04eefdd635" }

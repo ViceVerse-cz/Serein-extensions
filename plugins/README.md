@@ -84,3 +84,8 @@ an automatic trust designation. All versions and updates require explicit user c
 See [Custom RPC](custom-rpc/README.md) for setup and builds. Requires the preview
 rich-presence SDK from Serein PR #465. Install through the shared catalog or import
 the package locally. Older clients without this capability cannot install it.
+
+## API Proxy (preview)
+
+See [API Proxy](api-proxy/README.md) for the native REST-only proxy editor.
+Requires the API proxy SDK capability; Gateway, CDN/media and calls stay direct.
