@@ -4,6 +4,22 @@
     {
       "manifest": {
         "api_version": 1,
+        "id": "catppuccin-mocha",
+        "name": "Catppuccin Mocha",
+        "version": "1.0.0",
+        "author": "VenSerein",
+        "license": "MIT",
+        "source": "https://github.com/ViceVerse-cz/Serein",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/catppuccin-mocha.serein-extension",
+      "sha256": "8792968da71624fa8ef80cb3ad43d4dca4ddcee9c93a1688f3b7da755b8efe3a",
+      "download_bytes": 1248,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
         "id": "forest-piano",
         "name": "Forest Piano",
         "version": "1.0.0",
@@ -14,12 +30,12 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/themes/forest-piano.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/forest-piano.serein-extension",
       "sha256": "3fffa784b2f406b4ad435fa5804baa1bed9ead9682254546ccf332c2bae12505",
       "download_bytes": 6452658,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/forest-piano.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/forest-piano.png",
         "sha256": "f3e8df1046c03eeed4a477530c5dec114ee582caa0ec4bb28e24b4131b8ce29f",
         "download_bytes": 147517
       }
@@ -35,12 +51,12 @@
         "source": "https://github.com/ViceVerse-cz/rustcord",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/themes/forest.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/forest.serein-extension",
       "sha256": "af5446105f3620961e74a7c358feffad19aa9e1ccc4ab6b998003a12bd72d72f",
       "download_bytes": 1456,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/forest.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/forest.png",
         "sha256": "a55d6c1dedee9e9696bd7a634aca41977f20eb428580d32da12a0dc477b543a9",
         "download_bytes": 66398
       }
@@ -56,12 +72,12 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/themes/golden.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/golden.serein-extension",
       "sha256": "0018a46e9c5e4d0431ba02a860b3d7deffab9c159c5d52e04928421ccb3be586",
       "download_bytes": 1794,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/golden.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/golden.png",
         "sha256": "1e9df1eaf7fe9906d9088924403f8cf4f4cd71527ce0af97681c600704536a1b",
         "download_bytes": 66164
       }
@@ -77,12 +93,12 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/themes/katana.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/katana.serein-extension",
       "sha256": "cf4ef3755d9208e700ee721b66edad3fceb4f26e52d09b82e645bf49070f1a15",
       "download_bytes": 994,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/katana.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/katana.png",
         "sha256": "693726039bd2edac1d44bdaa624c7b2bb3cf3e5245b87316a925418902097b06",
         "download_bytes": 66257
       }
@@ -98,12 +114,12 @@
         "source": "https://github.com/ViceVerse-cz/rustcord",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/themes/latte.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/latte.serein-extension",
       "sha256": "4717d418dd275a83f33aa513cac04ea03c49edccc8d67e5840655fc22ddd65d4",
       "download_bytes": 1454,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/latte.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/latte.png",
         "sha256": "3c0a7016eb6994d1be6fb27368a06cd717657f4a042db7647255d7cbd6387275",
         "download_bytes": 65904
       }
@@ -119,15 +135,31 @@
         "source": "https://github.com/ViceVerse-cz/rustcord",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/themes/midnight.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/midnight.serein-extension",
       "sha256": "006997c86297b1cb9e87188f712ab2c0d6017ee97c44270306afe50a71bb4308",
       "download_bytes": 1460,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/midnight.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/midnight.png",
         "sha256": "81eb4c6bd634cc7e624a7d9714ae2503e8e05260470b7ff0af63daa3e0a98c16",
         "download_bytes": 65740
       }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "nord-theme",
+        "name": "Nord",
+        "version": "1.0.0",
+        "author": "VenSerein",
+        "license": "MIT",
+        "source": "https://github.com/ViceVerse-cz/Serein",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/nord-theme.serein-extension",
+      "sha256": "9cca40bf6fa65926951869470c14cbbc68e8dbb6c16b1ecb24cbd2d9cef47bfd",
+      "download_bytes": 1229,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
     },
     {
       "manifest": {
@@ -140,12 +172,12 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/themes/obsidian.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/obsidian.serein-extension",
       "sha256": "e42cb1ad38f0c495375343bb8e64852ccb98a5a860293cd9ce3a86bbec1f0dd5",
       "download_bytes": 1838,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/obsidian.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/obsidian.png",
         "sha256": "8860202e554147302139d5664714d65bdf6b94e8729228d4937a25c55f405588",
         "download_bytes": 66162
       }
@@ -161,15 +193,31 @@
         "source": "https://github.com/ViceVerse-cz/rustcord",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/themes/ocean.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/ocean.serein-extension",
       "sha256": "ec95e43e6167d95393b279062b41587408ad270ebcc61a5eed2a71865c8387cd",
       "download_bytes": 960,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/ocean.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/ocean.png",
         "sha256": "7fd9532d983c52ec9f86a345d23e2c6822597ca29a34833958be816e0bcc1913",
         "download_bytes": 85376
       }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "one-dark-pro",
+        "name": "One Dark Pro",
+        "version": "1.0.0",
+        "author": "VenSerein",
+        "license": "MIT",
+        "source": "https://github.com/ViceVerse-cz/Serein",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/one-dark-pro.serein-extension",
+      "sha256": "92eac26511497604db5e35a377041487cc1f47983cdc0ee1482f7f882b78ed4e",
+      "download_bytes": 1239,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
     },
     {
       "manifest": {
@@ -182,12 +230,12 @@
         "source": "https://github.com/ViceVerse-cz/rustcord",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/themes/rose.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/rose.serein-extension",
       "sha256": "dbdd5a98f46559d107f26501308029e38e8fb68cc74ef23aa18baf9552cd139f",
       "download_bytes": 1452,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/rose.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/rose.png",
         "sha256": "c5b3380a76863535afb52314db03240cf86f481e7805f73ac3cd6789a404980b",
         "download_bytes": 65114
       }
@@ -205,12 +253,12 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/themes/soft-white.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/soft-white.serein-extension",
       "sha256": "e981bf8d1230bf540e531d49eecde1f06769e635b55ba2b4eb376dab668248a0",
       "download_bytes": 5860518,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/soft-white.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/soft-white.png",
         "sha256": "dbe0d64360c5eba021b03122cae6776a9f05585f5335c47580684e7d3ac73e60",
         "download_bytes": 110890
       }
@@ -226,15 +274,31 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/themes/teal.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/teal.serein-extension",
       "sha256": "1c794d14b12bb470164e2c220051de7c20b13de8175390595a559f551bb6409a",
       "download_bytes": 1827,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/teal.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/teal.png",
         "sha256": "07f686309198ce01ddf28bbc9e1d07b91fac27949e4e4c769c3c88e084b6c36c",
         "download_bytes": 65843
       }
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "tokyo-night",
+        "name": "Tokyo Night",
+        "version": "1.0.0",
+        "author": "VenSerein",
+        "license": "MIT",
+        "source": "https://github.com/ViceVerse-cz/Serein",
+        "kind": "theme"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/themes/tokyo-night.serein-extension",
+      "sha256": "dca854362be7fc57b9861bf3becfc035e2296cbdef561fa0df373207e179ed86",
+      "download_bytes": 1237,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
     },
     {
       "manifest": {
@@ -268,15 +332,347 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/plugins/packages/api-proxy.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/api-proxy.serein-extension",
       "sha256": "e6ce691505357f3e19d5db33762e8d54da355a35b19fde309edec04fc0a7a85c",
       "download_bytes": 920979,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/api-proxy.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/api-proxy.png",
         "sha256": "3764a08ea4cfda49a365bdf79480b61753130c6cf623083ef64410a88ddb64a1",
         "download_bytes": 69881
       }
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "better-role-context",
+        "name": "Better Role Context",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "better_role_context.wasm",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "inspect-roles",
+            "title": "Inspect Server Roles",
+            "surface": "panel",
+            "label": "Inspect Roles"
+          },
+          {
+            "id": "copy-roles",
+            "title": "Copy Roles to Composer",
+            "surface": "composer",
+            "label": "Copy Roles"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/better-role-context.serein-extension",
+      "sha256": "899c9c4984f45fbc8cf1659254d7d5adc6b3a0c4be9b1c142de27b19da4263ec",
+      "download_bytes": 1118573,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "better-sessions",
+        "name": "Better Sessions & Device Hub",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "better_sessions.wasm",
+        "capabilities": [
+          "storage",
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "manage-sessions",
+            "title": "Device Sessions & Security Audit",
+            "surface": "panel",
+            "label": "Manage Sessions"
+          },
+          {
+            "id": "expand-sessions",
+            "title": "Insert Sessions Report",
+            "surface": "composer",
+            "label": "Expand Sessions"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/better-sessions.serein-extension",
+      "sha256": "9cf724e33843075ebc04a6ab325517486d5e7b073e6f99d06d9b8e033001fed8",
+      "download_bytes": 444644,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "better-settings",
+        "name": "Better Settings & Diagnostics",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "better_settings.wasm",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "settings-hub",
+            "title": "Open Settings & Diagnostics Hub",
+            "surface": "panel",
+            "label": "Settings Hub"
+          },
+          {
+            "id": "export-config",
+            "title": "Export Client Config to Composer",
+            "surface": "composer",
+            "label": "Export Config"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/better-settings.serein-extension",
+      "sha256": "4a36114c5654cf18f4a6e3afceaf815390f6945231e0cc9a89cb46363dcc9abe",
+      "download_bytes": 1152335,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "channel-activity",
+        "name": "Channel Activity (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/channelActivity",
+        "kind": "plugin",
+        "capabilities": [
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "show-activity",
+            "label": "Статистика активности канала",
+            "surface": "panel"
+          },
+          {
+            "id": "reset-activity",
+            "label": "Сбросить статистику",
+            "surface": "panel"
+          },
+          {
+            "id": "on-message-event",
+            "label": "Анализ сообщений",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/channel-activity.serein-extension",
+      "sha256": "ead547591949e46c5e916bc8a82abee81e0f8314b14233870411e29b412b049c",
+      "download_bytes": 1213879,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "character-counter",
+        "name": "Character & Stats Counter (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/characterCounter",
+        "kind": "plugin",
+        "capabilities": [
+          "composer",
+          "selected_message"
+        ],
+        "actions": [
+          {
+            "id": "inspect-draft",
+            "label": "Счётчик символов драфта",
+            "surface": "composer"
+          },
+          {
+            "id": "inspect-message",
+            "label": "Статистика сообщения",
+            "surface": "message"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/character-counter.serein-extension",
+      "sha256": "31386ee299b38e1956b1d0ef97083e67854c618bf4f4d2a4e22a10889cbaca89",
+      "download_bytes": 368329,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "clear-urls",
+        "name": "Clear URLs (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/clearURLs",
+        "kind": "plugin",
+        "capabilities": [
+          "composer",
+          "selected_message",
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "clean-draft",
+            "label": "Очистить ссылки в драфте",
+            "surface": "composer"
+          },
+          {
+            "id": "clean-message",
+            "label": "Очистить ссылки из сообщения",
+            "surface": "message"
+          },
+          {
+            "id": "open-settings",
+            "label": "Настройки ClearURLs",
+            "surface": "panel"
+          },
+          {
+            "id": "save-settings",
+            "label": "Сохранить настройки ClearURLs",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/clear-urls.serein-extension",
+      "sha256": "5a57b1b45b812b9183776dddb366ef285ca0fc698c3812e5d033b523b9671c60",
+      "download_bytes": 1864743,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "copy-emoji-markdown",
+        "name": "Copy Emoji Markdown (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/copyEmojiMarkdown",
+        "kind": "plugin",
+        "capabilities": [
+          "selected_message",
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "extract-emojis",
+            "label": "Извлечь эмодзи из сообщения",
+            "surface": "message"
+          },
+          {
+            "id": "copy-emoji-text",
+            "label": "Скопировать все найденные эмодзи",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/copy-emoji-markdown.serein-extension",
+      "sha256": "c6e012b86351d5e2f072423cab32a7d773d3c52cce086c60a7f8bd40812979a9",
+      "download_bytes": 1224688,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "copy-user-urls",
+        "name": "Copy User URLs (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/copyUserURLs",
+        "kind": "plugin",
+        "capabilities": [
+          "selected_message"
+        ],
+        "actions": [
+          {
+            "id": "copy-author-url",
+            "label": "Скопировать ссылку профиля автора",
+            "surface": "message"
+          },
+          {
+            "id": "open-tool",
+            "label": "Генератор ссылок профиля",
+            "surface": "panel"
+          },
+          {
+            "id": "generate-url",
+            "label": "Сгенерировать и скопировать",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/copy-user-urls.serein-extension",
+      "sha256": "197253058b4e9d31a12bead28432b55f08d582139e538673c1f797c37eb64234",
+      "download_bytes": 1227176,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "custom-commands",
+        "name": "Custom Commands & Macros",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "custom_commands.wasm",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "manage-commands",
+            "title": "Manage Custom Commands",
+            "surface": "panel",
+            "label": "Manage Commands"
+          },
+          {
+            "id": "expand-command",
+            "title": "Expand Custom Command Macro",
+            "surface": "composer",
+            "label": "Expand Command"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/custom-commands.serein-extension",
+      "sha256": "526d5633599e99895641e4be428e3efdc38d6065a6677181a183aea9f4a0da23",
+      "download_bytes": 468423,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
     },
     {
       "manifest": {
@@ -325,12 +721,12 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/plugins/packages/custom-rpc.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/custom-rpc.serein-extension",
       "sha256": "f6f70f0f537052910a6e5497bf4d40a6d8d7e5ece3be4d4678a09d872e31b0ac",
       "download_bytes": 409132,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/custom-rpc.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/custom-rpc.png",
         "sha256": "32a89d15bce3c35b0d2d176f4a0fc2c30dc1be01bdd0db6a634910fdacb1bac9",
         "download_bytes": 43030
       }
@@ -356,15 +752,128 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/plugins/packages/emoji-sticker-images.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/emoji-sticker-images.serein-extension",
       "sha256": "f2c3ce66659f88bd7a576f8288e9bbfa04a78378f0828cd6a065aace51f3a90f",
       "download_bytes": 205642,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/emoji-sticker-images.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/emoji-sticker-images.png",
         "sha256": "7ad55f648fcc33678975531bcc22fc4f4592c2700db24209a84caed5e695a41e",
         "download_bytes": 55312
       }
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "expression-manager",
+        "name": "Expression Manager & Kaomoji Hub",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "expression_manager.wasm",
+        "capabilities": [
+          "storage",
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "manage-expressions",
+            "title": "Expression Manager & Kaomoji Quick Insert",
+            "surface": "panel",
+            "label": "Manage Expressions"
+          },
+          {
+            "id": "expand-expressions",
+            "title": "Insert Expressions / Expand Shortcuts",
+            "surface": "composer",
+            "label": "Expand Expressions"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/expression-manager.serein-extension",
+      "sha256": "b1e849fff0014dfb02f2996c7717aeacc566f01d7ee1dd0805d7ab2a37f55725",
+      "download_bytes": 516030,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "friend-invites",
+        "name": "Friend Invites",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "friend_invites.wasm",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "create-invite",
+            "title": "Friend Invite Link",
+            "surface": "composer",
+            "label": "Create Invite"
+          },
+          {
+            "id": "invite-panel",
+            "title": "Friend Invites Generator",
+            "surface": "panel",
+            "label": "Invite Panel"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/friend-invites.serein-extension",
+      "sha256": "89b658a13fa5bb6659d7f6782f247dccc1a286a4537340257c34eafd6dca69f0",
+      "download_bytes": 1094311,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "implicit-relationships",
+        "name": "Implicit Relationships",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "implicit_relationships.wasm",
+        "capabilities": [],
+        "actions": [
+          {
+            "id": "audit",
+            "title": "Audit Relationships",
+            "surface": "panel",
+            "label": "Audit"
+          },
+          {
+            "id": "audit-channel",
+            "title": "Channel Relationships",
+            "surface": "panel",
+            "label": "Audit Channel"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/implicit-relationships.serein-extension",
+      "sha256": "0e55c9f9572bd02337be3024ea63f72ab5eb0dd80fb08ff53cb6c60165b5ca61",
+      "download_bytes": 1097859,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
     },
     {
       "manifest": {
@@ -387,15 +896,845 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/plugins/packages/message-delete-protector.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/message-delete-protector.serein-extension",
       "sha256": "dffd601e3b85b17ae9bacc6deedc526e225c3ee81072ee5e8e64981da03bf6f9",
       "download_bytes": 338103,
-      "source_commit": "406bb318a8b2d3788e66ed8cecae832550721a3f",
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/406bb318a8b2d3788e66ed8cecae832550721a3f/previews/message-delete-protector.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/previews/message-delete-protector.png",
         "sha256": "729063ad60d977fef21d630e07e09677ce07836b1a6bd18d447c3541af5a938c",
         "download_bytes": 65905
       }
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "message-link-embeds",
+        "name": "Message Link Embeds",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "message_link_embeds.wasm",
+        "capabilities": [
+          "composer",
+          "selected_message"
+        ],
+        "actions": [
+          {
+            "id": "quote-link",
+            "title": "Quote Message Link",
+            "surface": "message",
+            "label": "Quote Link"
+          },
+          {
+            "id": "format-link",
+            "title": "Format Discord Link",
+            "surface": "composer",
+            "label": "Format Link"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/message-link-embeds.serein-extension",
+      "sha256": "744f837a69490e97d7eab5be18bf56beb5b30d3023b27dcf9d3d3695e9c03357",
+      "download_bytes": 941242,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "more-quick-reactions",
+        "name": "More Quick Reactions",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "more_quick_reactions.wasm",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "picker",
+            "title": "Quick Reactions",
+            "surface": "composer",
+            "label": "Picker"
+          },
+          {
+            "id": "reactions-panel",
+            "title": "Quick Reactions Palettes",
+            "surface": "panel",
+            "label": "Reactions Panel"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/more-quick-reactions.serein-extension",
+      "sha256": "51680c88d217d7efc71328d26f896aa891f29f1d9e98bdb2b83ed622d1298b61",
+      "download_bytes": 368553,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "music-rich-presence",
+        "name": "Music Rich Presence",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "music_rich_presence.wasm",
+        "capabilities": [
+          "rich_presence"
+        ],
+        "actions": [
+          {
+            "id": "open-player",
+            "title": "Music Status",
+            "surface": "panel",
+            "label": "Open Player"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/music-rich-presence.serein-extension",
+      "sha256": "542441e9a1599b880f37f195190bb3347688fc71bbb903114f6b66238533c903",
+      "download_bytes": 377746,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "mutual-group-dms",
+        "name": "Mutual Group DMs (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/mutualGroupDMs",
+        "kind": "plugin",
+        "capabilities": [
+          "selected_message"
+        ],
+        "actions": [
+          {
+            "id": "show-mutual-groups",
+            "label": "Найти общие группы",
+            "surface": "message"
+          },
+          {
+            "id": "refresh-groups",
+            "label": "Обновить список групп",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/mutual-group-dms.serein-extension",
+      "sha256": "ca10f21d50ff7a26a2896dbca862180a07a2cc2240f89c04d03cb2c61e4d89dc",
+      "download_bytes": 1129757,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "permissions-viewer",
+        "name": "Permissions Viewer (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/permissionsViewer",
+        "kind": "plugin",
+        "capabilities": [],
+        "actions": [
+          {
+            "id": "show-permissions",
+            "label": "Инспектор прав канала",
+            "surface": "panel"
+          },
+          {
+            "id": "calc-permissions",
+            "label": "Калькулятор битовой маски прав",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/permissions-viewer.serein-extension",
+      "sha256": "e85b1a7799e212522c418bd2676a3578070a09ab3bea5b111f33a5b57d0f9f2c",
+      "download_bytes": 1123605,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "preview-message",
+        "name": "Preview Message (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/previewMessage",
+        "kind": "plugin",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "preview-draft",
+            "label": "Предпросмотр сообщения",
+            "surface": "composer"
+          },
+          {
+            "id": "apply-format",
+            "label": "Нормализовать форматирование",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/preview-message.serein-extension",
+      "sha256": "338c7d5303b3fb61a26986c8f55e6f145cf0832feddf0e4a830ce6a76fd241f0",
+      "download_bytes": 393297,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "quick-mention",
+        "name": "Quick Mention (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/quickMention",
+        "kind": "plugin",
+        "capabilities": [
+          "composer",
+          "selected_message"
+        ],
+        "actions": [
+          {
+            "id": "mention-author",
+            "label": "Упомянуть автора в драфте",
+            "surface": "message"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/quick-mention.serein-extension",
+      "sha256": "3181ece2012d3cd1a576f481eff98b32dc77d869b8e017299b3512574f0bea0e",
+      "download_bytes": 1216414,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "quick-reply",
+        "name": "Quick Reply & Canned Responses (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/quickReply",
+        "kind": "plugin",
+        "capabilities": [
+          "composer",
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "show-snippets",
+            "label": "Быстрые ответы",
+            "surface": "composer"
+          },
+          {
+            "id": "apply-snippet",
+            "label": "Вставить быстрый ответ",
+            "surface": "panel"
+          },
+          {
+            "id": "open-settings",
+            "label": "Управление быстрыми ответами",
+            "surface": "panel"
+          },
+          {
+            "id": "add-snippet",
+            "label": "Добавить шаблон ответа",
+            "surface": "panel"
+          },
+          {
+            "id": "reset-defaults",
+            "label": "Сбросить к стандартным",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/quick-reply.serein-extension",
+      "sha256": "9ffdf76c8b6a24812f57206dd3bef098347fce8d9f97c10958f5d8e85f5aa0b8",
+      "download_bytes": 443638,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "relationship-notifier",
+        "name": "Relationship Notifier (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/relationshipNotifier",
+        "kind": "plugin",
+        "capabilities": [
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "show-history",
+            "label": "История изменений друзей",
+            "surface": "panel"
+          },
+          {
+            "id": "clear-history",
+            "label": "Очистить историю",
+            "surface": "panel"
+          },
+          {
+            "id": "on-relationship-event",
+            "label": "Отслеживание отношений",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/relationship-notifier.serein-extension",
+      "sha256": "417ca565ddcea62a219bdebdecc75a05819a9cbaa443874017027e44788c46b7",
+      "download_bytes": 1188154,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "reverse-image-search",
+        "name": "Reverse Image Search (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/reverseImageSearch",
+        "kind": "plugin",
+        "capabilities": [
+          "selected_message"
+        ],
+        "actions": [
+          {
+            "id": "search-image",
+            "label": "Поиск по картинке",
+            "surface": "message"
+          },
+          {
+            "id": "calc-engines",
+            "label": "Сформировать ссылки поиска",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/reverse-image-search.serein-extension",
+      "sha256": "e3fbff1830bee35e4f99d1a2ce8755dab504ef2af689a78471c5d41714ad39b6",
+      "download_bytes": 388049,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "review-db",
+        "name": "ReviewDB User Reputation & Trust",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "review_db.wasm",
+        "capabilities": [
+          "storage",
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "manage-reviews",
+            "title": "ReviewDB Reputation & Ratings Hub",
+            "surface": "panel",
+            "label": "Manage Reviews"
+          },
+          {
+            "id": "expand-reviews",
+            "title": "Insert User Reviews / Rating Summary",
+            "surface": "composer",
+            "label": "Expand Reviews"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/review-db.serein-extension",
+      "sha256": "66abee4933ad127db8caaba03712ae555e00eec9dfe0dfc17e6fd8918b07b920",
+      "download_bytes": 467980,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "send-timestamps",
+        "name": "Send Timestamps (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/sendTimestamps",
+        "kind": "plugin",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "show-picker",
+            "label": "Выбрать timestamp Discord",
+            "surface": "composer"
+          },
+          {
+            "id": "apply-timestamp",
+            "label": "Вставить timestamp",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/send-timestamps.serein-extension",
+      "sha256": "d191b2f4668653e3500ae0fa7aebb79eb587c49cecea981064764a5083ed4b70",
+      "download_bytes": 1242047,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "server-info",
+        "name": "Server & Channel Info (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/serverInfo",
+        "kind": "plugin",
+        "capabilities": [
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "inspect-server",
+            "label": "Информация о текущем сервере",
+            "surface": "panel"
+          },
+          {
+            "id": "copy-guild-id",
+            "label": "Скопировать Server ID",
+            "surface": "panel"
+          },
+          {
+            "id": "copy-channel-id",
+            "label": "Скопировать Channel ID",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/server-info.serein-extension",
+      "sha256": "822afb5e60749ed2e1953205d4f2028b77579305bcde9f78ccd2fcc385b4b7f0",
+      "download_bytes": 1225690,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "silent-message-toggle",
+        "name": "Silent Message Toggle (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/silentMessageToggle",
+        "kind": "plugin",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "toggle-silent",
+            "label": "Переключить тихий режим (@silent)",
+            "surface": "composer"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/silent-message-toggle.serein-extension",
+      "sha256": "4828b7559697a07c98b721b1a53952b12a5773d916a32abca5a820f7a39aba86",
+      "download_bytes": 362277,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "sort-friend-requests",
+        "name": "Sort Friend Requests",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "sort_friend_requests.wasm",
+        "capabilities": [],
+        "actions": [
+          {
+            "id": "sort-requests",
+            "title": "Sort Friend Requests",
+            "surface": "panel",
+            "label": "Sort Requests"
+          },
+          {
+            "id": "sort-az",
+            "title": "Sort A-Z",
+            "surface": "panel",
+            "label": "Sort Az"
+          },
+          {
+            "id": "sort-za",
+            "title": "Sort Z-A",
+            "surface": "panel",
+            "label": "Sort Za"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/sort-friend-requests.serein-extension",
+      "sha256": "d35b51f16c78002ce05818c10146f6a120fba2648c6df55624000dc68f29529e",
+      "download_bytes": 1172230,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "spotify-controls",
+        "name": "Spotify Controls",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "spotify_controls.wasm",
+        "capabilities": [
+          "rich_presence",
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "control-panel",
+            "title": "Spotify Controls",
+            "surface": "panel",
+            "label": "Control Panel"
+          },
+          {
+            "id": "share-song",
+            "title": "Share Now Playing",
+            "surface": "composer",
+            "label": "Share Song"
+          },
+          {
+            "id": "toggle-presence",
+            "title": "Toggle Spotify Presence",
+            "surface": "panel",
+            "label": "Toggle Presence"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/spotify-controls.serein-extension",
+      "sha256": "639ecb18b8c0039728f67f5a77b7e8d7ea3b0652c6cbd410e48eb0254eed8d47",
+      "download_bytes": 378021,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "spotify-share",
+        "name": "Spotify Share Commands",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "spotify_share.wasm",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "format-spotify",
+            "title": "Format Spotify Link",
+            "surface": "composer",
+            "label": "Format Spotify"
+          },
+          {
+            "id": "share-panel",
+            "title": "Spotify Share Helper",
+            "surface": "panel",
+            "label": "Share Panel"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/spotify-share.serein-extension",
+      "sha256": "029955ae38633e563f2a0e76e20beb6bbff40039d8ec6503590e7bb0318f287e",
+      "download_bytes": 944228,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "text-replace",
+        "name": "Text Replace & Kaomoji Macros (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/textReplace",
+        "kind": "plugin",
+        "capabilities": [
+          "composer",
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "expand-macros",
+            "label": "Развернуть текстовые макросы",
+            "surface": "composer"
+          },
+          {
+            "id": "open-settings",
+            "label": "Управление макросами",
+            "surface": "panel"
+          },
+          {
+            "id": "add-macro",
+            "label": "Добавить макрос",
+            "surface": "panel"
+          },
+          {
+            "id": "reset-defaults",
+            "label": "Сбросить к стандартным",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/text-replace.serein-extension",
+      "sha256": "c3f44de52a7ed59ea2c6043cd2f5e068318e93bff3e8ee0da22b4f68d53e1006",
+      "download_bytes": 447887,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "translate-message",
+        "name": "Translate Message",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "translate_message.wasm",
+        "capabilities": [
+          "selected_message",
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "translate",
+            "title": "Translate Message",
+            "surface": "message",
+            "label": "Translate"
+          },
+          {
+            "id": "composer-translate",
+            "title": "Translate Draft",
+            "surface": "composer",
+            "label": "Composer Translate"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/translate-message.serein-extension",
+      "sha256": "e68451fa67f955a778f6f56a8848d6e4e34431f7885f1136a3e996b63d0cb5e9",
+      "download_bytes": 380040,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "unindent",
+        "name": "Unindent Codeblocks (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/unindent",
+        "kind": "plugin",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "unindent-draft",
+            "label": "Убрать лишние отступы (Unindent)",
+            "surface": "composer"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/unindent.serein-extension",
+      "sha256": "2128dad9230ff4e9bd425b879f257fb46a481eb33f54c4790173142e759c590b",
+      "download_bytes": 384329,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "unmask-links",
+        "name": "Unmask Links (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/noMaskedUrlPaste",
+        "kind": "plugin",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "unmask-links",
+            "label": "Размаскировать скрытые ссылки",
+            "surface": "composer"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/unmask-links.serein-extension",
+      "sha256": "3ee42714674107856bfcfe624e8848534691e08528e681f2d56dc76dc632f19d",
+      "download_bytes": 365600,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+        "id": "user-pronouns",
+        "name": "User Pronouns",
+        "version": "1.0.0",
+        "authors": [
+          "VenSerein Contributors"
+        ],
+        "entrypoint": "user_pronouns.wasm",
+        "capabilities": [
+          "composer"
+        ],
+        "actions": [
+          {
+            "id": "view-pronouns",
+            "title": "User Pronouns",
+            "surface": "panel",
+            "label": "View Pronouns"
+          },
+          {
+            "id": "insert-pronouns",
+            "title": "Insert My Pronouns",
+            "surface": "composer",
+            "label": "Insert Pronouns"
+          }
+        ],
+        "api_version": 1,
+        "kind": "plugin",
+        "author": "VenSerein contributors",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/ViceVerse-cz/Serein"
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/user-pronouns.serein-extension",
+      "sha256": "e25a694871fbcbadbde4aa509b115a0a07e1d5f2bb2141107a425b6b25f8c2a8",
+      "download_bytes": 1099396,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "view-icons",
+        "name": "View Server Icons & Assets (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/viewIcons",
+        "kind": "plugin",
+        "capabilities": [],
+        "actions": [
+          {
+            "id": "show-assets",
+            "label": "Ассеты и иконки сервера",
+            "surface": "panel"
+          },
+          {
+            "id": "copy-icon-url",
+            "label": "Скопировать ссылку на иконку",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/view-icons.serein-extension",
+      "sha256": "e883d80b29a68fd0d0432891dae97ff96aab382ec9c87324244416a1de64daf4",
+      "download_bytes": 1221369,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
+    },
+    {
+      "manifest": {
+        "api_version": 1,
+        "id": "view-raw",
+        "name": "View Raw Message (VenSerein)",
+        "version": "1.0.0",
+        "author": "VenSerein Team",
+        "license": "MIT OR Apache-2.0",
+        "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/viewRaw",
+        "kind": "plugin",
+        "capabilities": [
+          "selected_message",
+          "storage"
+        ],
+        "actions": [
+          {
+            "id": "inspect-raw",
+            "label": "Просмотреть сырой текст сообщения",
+            "surface": "message"
+          },
+          {
+            "id": "copy-raw-text",
+            "label": "Скопировать сырой текст",
+            "surface": "panel"
+          }
+        ]
+      },
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b/plugins/packages/view-raw.serein-extension",
+      "sha256": "f6565748a73a4b5310f71f0e18646513a8d6a28bed62ca5cb9225c2ffbb9da78",
+      "download_bytes": 1223154,
+      "source_commit": "d6d47b64510fdfbe0cb9828dc2f1cad5ec19351b"
     }
   ]
 }
