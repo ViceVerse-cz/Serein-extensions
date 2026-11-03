@@ -1,0 +1,30 @@
+{
+  "api_version": 1,
+  "id": "relationship-notifier",
+  "name": "Relationship Notifier (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/relationshipNotifier",
+  "kind": "plugin",
+  "capabilities": [
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "show-history",
+      "label": "История изменений друзей",
+      "surface": "panel"
+    },
+    {
+      "id": "clear-history",
+      "label": "Очистить историю",
+      "surface": "panel"
+    },
+    {
+      "id": "on-relationship-event",
+      "label": "Отслеживание отношений",
+      "surface": "panel"
+    }
+  ]
+}

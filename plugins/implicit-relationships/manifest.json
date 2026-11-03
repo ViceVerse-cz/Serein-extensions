@@ -1,0 +1,30 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "implicit-relationships",
+  "name": "Implicit Relationships",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "implicit_relationships.wasm",
+  "capabilities": [],
+  "actions": [
+    {
+      "id": "audit",
+      "title": "Audit Relationships",
+      "surface": "panel",
+      "label": "Audit"
+    },
+    {
+      "id": "audit-channel",
+      "title": "Channel Relationships",
+      "surface": "panel",
+      "label": "Audit Channel"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

@@ -1,0 +1,36 @@
+{
+  "api_version": 1,
+  "id": "text-replace",
+  "name": "Text Replace & Kaomoji Macros (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/textReplace",
+  "kind": "plugin",
+  "capabilities": [
+    "composer",
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "expand-macros",
+      "label": "Развернуть текстовые макросы",
+      "surface": "composer"
+    },
+    {
+      "id": "open-settings",
+      "label": "Управление макросами",
+      "surface": "panel"
+    },
+    {
+      "id": "add-macro",
+      "label": "Добавить макрос",
+      "surface": "panel"
+    },
+    {
+      "id": "reset-defaults",
+      "label": "Сбросить к стандартным",
+      "surface": "panel"
+    }
+  ]
+}

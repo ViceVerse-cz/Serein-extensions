@@ -1,0 +1,20 @@
+{
+  "api_version": 1,
+  "id": "unmask-links",
+  "name": "Unmask Links (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/noMaskedUrlPaste",
+  "kind": "plugin",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "unmask-links",
+      "label": "Размаскировать скрытые ссылки",
+      "surface": "composer"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "api_version": 1,
+  "id": "character-counter",
+  "name": "Character & Stats Counter (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/characterCounter",
+  "kind": "plugin",
+  "capabilities": [
+    "composer",
+    "selected_message"
+  ],
+  "actions": [
+    {
+      "id": "inspect-draft",
+      "label": "Счётчик символов драфта",
+      "surface": "composer"
+    },
+    {
+      "id": "inspect-message",
+      "label": "Статистика сообщения",
+      "surface": "message"
+    }
+  ]
+}

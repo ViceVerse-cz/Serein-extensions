@@ -1,0 +1,30 @@
+{
+  "api_version": 1,
+  "id": "copy-user-urls",
+  "name": "Copy User URLs (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/copyUserURLs",
+  "kind": "plugin",
+  "capabilities": [
+    "selected_message"
+  ],
+  "actions": [
+    {
+      "id": "copy-author-url",
+      "label": "Скопировать ссылку профиля автора",
+      "surface": "message"
+    },
+    {
+      "id": "open-tool",
+      "label": "Генератор ссылок профиля",
+      "surface": "panel"
+    },
+    {
+      "id": "generate-url",
+      "label": "Сгенерировать и скопировать",
+      "surface": "panel"
+    }
+  ]
+}

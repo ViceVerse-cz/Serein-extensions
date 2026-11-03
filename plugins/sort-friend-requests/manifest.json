@@ -1,0 +1,36 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "sort-friend-requests",
+  "name": "Sort Friend Requests",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "sort_friend_requests.wasm",
+  "capabilities": [],
+  "actions": [
+    {
+      "id": "sort-requests",
+      "title": "Sort Friend Requests",
+      "surface": "panel",
+      "label": "Sort Requests"
+    },
+    {
+      "id": "sort-az",
+      "title": "Sort A-Z",
+      "surface": "panel",
+      "label": "Sort Az"
+    },
+    {
+      "id": "sort-za",
+      "title": "Sort Z-A",
+      "surface": "panel",
+      "label": "Sort Za"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

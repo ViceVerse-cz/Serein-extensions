@@ -1,0 +1,41 @@
+{
+  "api_version": 1,
+  "id": "quick-reply",
+  "name": "Quick Reply & Canned Responses (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/quickReply",
+  "kind": "plugin",
+  "capabilities": [
+    "composer",
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "show-snippets",
+      "label": "Быстрые ответы",
+      "surface": "composer"
+    },
+    {
+      "id": "apply-snippet",
+      "label": "Вставить быстрый ответ",
+      "surface": "panel"
+    },
+    {
+      "id": "open-settings",
+      "label": "Управление быстрыми ответами",
+      "surface": "panel"
+    },
+    {
+      "id": "add-snippet",
+      "label": "Добавить шаблон ответа",
+      "surface": "panel"
+    },
+    {
+      "id": "reset-defaults",
+      "label": "Сбросить к стандартным",
+      "surface": "panel"
+    }
+  ]
+}

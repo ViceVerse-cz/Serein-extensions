@@ -1,0 +1,26 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "music-rich-presence",
+  "name": "Music Rich Presence",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "music_rich_presence.wasm",
+  "capabilities": [
+    "rich_presence"
+  ],
+  "actions": [
+    {
+      "id": "open-player",
+      "title": "Music Status",
+      "surface": "panel",
+      "label": "Open Player"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

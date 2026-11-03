@@ -1,0 +1,33 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "message-link-embeds",
+  "name": "Message Link Embeds",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "message_link_embeds.wasm",
+  "capabilities": [
+    "composer",
+    "selected_message"
+  ],
+  "actions": [
+    {
+      "id": "quote-link",
+      "title": "Quote Message Link",
+      "surface": "message",
+      "label": "Quote Link"
+    },
+    {
+      "id": "format-link",
+      "title": "Format Discord Link",
+      "surface": "composer",
+      "label": "Format Link"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

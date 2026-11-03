@@ -1,0 +1,37 @@
+{
+  "api_version": 1,
+  "id": "clear-urls",
+  "name": "Clear URLs (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/clearURLs",
+  "kind": "plugin",
+  "capabilities": [
+    "composer",
+    "selected_message",
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "clean-draft",
+      "label": "Очистить ссылки в драфте",
+      "surface": "composer"
+    },
+    {
+      "id": "clean-message",
+      "label": "Очистить ссылки из сообщения",
+      "surface": "message"
+    },
+    {
+      "id": "open-settings",
+      "label": "Настройки ClearURLs",
+      "surface": "panel"
+    },
+    {
+      "id": "save-settings",
+      "label": "Сохранить настройки ClearURLs",
+      "surface": "panel"
+    }
+  ]
+}

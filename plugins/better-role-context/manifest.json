@@ -1,0 +1,32 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "better-role-context",
+  "name": "Better Role Context",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "better_role_context.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "inspect-roles",
+      "title": "Inspect Server Roles",
+      "surface": "panel",
+      "label": "Inspect Roles"
+    },
+    {
+      "id": "copy-roles",
+      "title": "Copy Roles to Composer",
+      "surface": "composer",
+      "label": "Copy Roles"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

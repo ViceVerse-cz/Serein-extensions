@@ -1,0 +1,25 @@
+{
+  "api_version": 1,
+  "id": "preview-message",
+  "name": "Preview Message (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/previewMessage",
+  "kind": "plugin",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "preview-draft",
+      "label": "Предпросмотр сообщения",
+      "surface": "composer"
+    },
+    {
+      "id": "apply-format",
+      "label": "Нормализовать форматирование",
+      "surface": "panel"
+    }
+  ]
+}

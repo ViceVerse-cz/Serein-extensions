@@ -1,10 +1,53 @@
 [workspace]
-members = ["sdk", "message-delete-protector", "emoji-sticker-images", "custom-rpc", "api-proxy"]
+members = [
+    "sdk",
+    "message-delete-protector",
+    "emoji-sticker-images",
+    "custom-rpc",
+    "api-proxy",
+    "better-role-context",
+    "better-sessions",
+    "better-settings",
+    "channel-activity",
+    "character-counter",
+    "clear-urls",
+    "copy-emoji-markdown",
+    "copy-user-urls",
+    "custom-commands",
+    "expression-manager",
+    "friend-invites",
+    "implicit-relationships",
+    "message-link-embeds",
+    "more-quick-reactions",
+    "music-rich-presence",
+    "mutual-group-dms",
+    "permissions-viewer",
+    "preview-message",
+    "quick-mention",
+    "quick-reply",
+    "relationship-notifier",
+    "reverse-image-search",
+    "review-db",
+    "send-timestamps",
+    "server-info",
+    "silent-message-toggle",
+    "sort-friend-requests",
+    "spotify-controls",
+    "spotify-share",
+    "text-replace",
+    "translate-message",
+    "unindent",
+    "unmask-links",
+    "user-pronouns",
+    "view-icons",
+    "view-raw"
+]
 resolver = "3"
 
 [workspace.dependencies]
 serde = { version = "1", features = ["derive"] }
 serde_json = "1"
+url = "2"
 serein-extension-sdk = { path = "sdk" }
 
 [profile.release]

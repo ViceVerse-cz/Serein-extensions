@@ -1,0 +1,26 @@
+{
+  "api_version": 1,
+  "id": "view-raw",
+  "name": "View Raw Message (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/viewRaw",
+  "kind": "plugin",
+  "capabilities": [
+    "selected_message",
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "inspect-raw",
+      "label": "Просмотреть сырой текст сообщения",
+      "surface": "message"
+    },
+    {
+      "id": "copy-raw-text",
+      "label": "Скопировать сырой текст",
+      "surface": "panel"
+    }
+  ]
+}
