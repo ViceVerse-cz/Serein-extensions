@@ -3,10 +3,109 @@
 version = 4
 
 [[package]]
+name = "advanced-permissions"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "api-proxy"
 version = "1.0.0"
 dependencies = [
  "serein-extension-sdk 0.1.0 (git+https://github.com/ViceVerse-cz/Serein.git?rev=910ae8994747e7dbae433cce9011ac04eefdd635)",
+]
+
+[[package]]
+name = "at-someone"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "auto-zipper"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "better-activities"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "better-ban-reasons"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "better-blocked-users"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "better-commands"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "better-forwards"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "better-image-editor"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "better-invites"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "better-plus-reacts"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
 ]
 
 [[package]]
@@ -43,6 +142,33 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "3ded4057c258ba199e2d26386d3af3780957ecaee6c4ef4041c6b4b8b97c0b06"
 
 [[package]]
+name = "block-keywords"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "bypass-pin-prompt"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "bypass-status"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "channel-activity"
 version = "1.0.0"
 dependencies = [
@@ -68,6 +194,24 @@ dependencies = [
  "serde_json",
  "serein-extension-sdk 0.1.0",
  "url",
+]
+
+[[package]]
+name = "clickable-roles"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "client-side-block"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
 ]
 
 [[package]]
@@ -108,6 +252,24 @@ dependencies = [
 ]
 
 [[package]]
+name = "custom-status-timeouts"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "decode-base64"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "displaydoc"
 version = "0.2.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -132,6 +294,15 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "877a4ace8713b0bcf2a4e7eec82529c029f1d0619886d18145fea96c3ffe5c0f"
 
 [[package]]
+name = "export-messages"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "expression-manager"
 version = "1.0.0"
 dependencies = [
@@ -153,6 +324,51 @@ dependencies = [
 ]
 
 [[package]]
+name = "fast-delete-channels"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "favorite-anything"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "file-upload"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "find-reply"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "fix-file-extensions"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "foldhash"
 version = "0.1.5"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -168,7 +384,79 @@ dependencies = [
 ]
 
 [[package]]
+name = "friend-codes"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "friend-invites"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "ghosted"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "gif-collections"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "gif-maker"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "github-repos"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "global-badges"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "google-that"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "guild-picker-dumper"
 version = "1.0.0"
 dependencies = [
  "serde",
@@ -190,6 +478,15 @@ name = "hashbrown"
 version = "0.17.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "ed5909b6e89a2db4456e54cd5f673791d7eca6732202bbf2a9cc504fe2f9b84a"
+
+[[package]]
+name = "i-remember-you"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
 
 [[package]]
 name = "icu_collections"
@@ -296,7 +593,25 @@ dependencies = [
 ]
 
 [[package]]
+name = "ignore-calls"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "implicit-relationships"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "in-role"
 version = "1.0.0"
 dependencies = [
  "serde",
@@ -315,10 +630,28 @@ dependencies = [
 ]
 
 [[package]]
+name = "invite-defaults"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "itoa"
 version = "1.0.18"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "8f42a60cbdf9a97f5d2305f08a87dc4e09308d1276d28c869c684d7777685682"
+
+[[package]]
+name = "keyword-notify"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
 
 [[package]]
 name = "libm"
@@ -339,9 +672,27 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "cf8baf1c55e62ffcace7a9f06f4bd9cd3f0c4beb022d3b367256b91b87513d98"
 
 [[package]]
+name = "message-burst"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "message-delete-protector"
 version = "1.0.0"
 dependencies = [
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "message-fetch-timer"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
  "serein-extension-sdk 0.1.0",
 ]
 
@@ -356,7 +707,79 @@ dependencies = [
 ]
 
 [[package]]
+name = "message-logger-enhanced"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "message-notifier"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "message-translate"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "middle-click-tweaks"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "more-commands"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "more-quick-reactions"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "more-stickers"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "more-user-tags"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "music-controls"
 version = "1.0.0"
 dependencies = [
  "serde",
@@ -383,6 +806,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "normalize-message-links"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "percent-encoding"
 version = "2.3.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -390,6 +822,24 @@ checksum = "9b4f627cb1b25917193a259e49bdad08f671f8d9708acfd5fe0a8c1455d87220"
 
 [[package]]
 name = "permissions-viewer"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "ping-notifications"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "polish-wording"
 version = "1.0.0"
 dependencies = [
  "serde",
@@ -425,6 +875,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "profile-sets"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "quick-mention"
 version = "1.0.0"
 dependencies = [
@@ -452,7 +911,43 @@ dependencies = [
 ]
 
 [[package]]
+name = "quoter"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "relationship-notifier"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "remix-revived"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "repeat-messages"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "reply-ping-control"
 version = "1.0.0"
 dependencies = [
  "serde",
@@ -472,6 +967,78 @@ dependencies = [
 
 [[package]]
 name = "review-db"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "rich-magnet-links"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "rich-presence"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "rpc-editor"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "save-favorite-gifs"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "scheduled-messages"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "search-fix"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "sed-enhanced"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "sekai-stickers"
 version = "1.0.0"
 dependencies = [
  "serde",
@@ -569,6 +1136,33 @@ dependencies = [
 ]
 
 [[package]]
+name = "show-song-name"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "signature"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "silence-users"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "silent-message-toggle"
 version = "1.0.0"
 dependencies = [
@@ -584,6 +1178,24 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "f9395f0f0eee849a9b707b2f06bb92a6a422090e2123bb2ef8e87a0e61892a8e"
 
 [[package]]
+name = "song-link"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "song-spotlight"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "sort-friend-requests"
 version = "1.0.0"
 dependencies = [
@@ -597,6 +1209,15 @@ name = "spin"
 version = "0.9.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "3763264f6b73151db08c50ff20d7d8a0b8796e021cdea7ceedad07b80155fa0e"
+
+[[package]]
+name = "split-large-messages"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
 
 [[package]]
 name = "spotify-controls"
@@ -622,6 +1243,60 @@ name = "stable_deref_trait"
 version = "1.2.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "6ce2be8dc25455e1f91df71bfa12ad37d7af1092ae736f3a6cd0e37bc7810596"
+
+[[package]]
+name = "status-presets"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "status-while-active"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "steam-status-sync"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "sticker-blocker"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "stop-auto-unread"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "streaks"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
 
 [[package]]
 name = "string-interner"
@@ -656,6 +1331,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "talk-in-reverse"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "text-replace"
 version = "1.0.0"
 dependencies = [
@@ -685,6 +1369,15 @@ dependencies = [
 ]
 
 [[package]]
+name = "tidal-embeds"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "tinystr"
 version = "0.8.4"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -692,6 +1385,15 @@ checksum = "b1e27c91459209c2986af3dcf603a5a74a4368754ce37414f59acc971167f643"
 dependencies = [
  "displaydoc",
  "zerovec",
+]
+
+[[package]]
+name = "tone-indicators"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
 ]
 
 [[package]]
@@ -705,6 +1407,24 @@ dependencies = [
 ]
 
 [[package]]
+name = "translate-plus"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "trivia-ai"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "unicode-ident"
 version = "1.0.26"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -712,6 +1432,24 @@ checksum = "d245f478577f809a851594d02313b640fb437e0bb33866753cff937863096954"
 
 [[package]]
 name = "unindent"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "unit-converter"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "universal-mention"
 version = "1.0.0"
 dependencies = [
  "serde",
@@ -741,6 +1479,24 @@ dependencies = [
 ]
 
 [[package]]
+name = "url-highlighter"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "user-pfp"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
 name = "user-pronouns"
 version = "1.0.0"
 dependencies = [
@@ -766,6 +1522,15 @@ dependencies = [
 
 [[package]]
 name = "view-raw"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "voice-channel-log"
 version = "1.0.0"
 dependencies = [
  "serde",
@@ -821,6 +1586,33 @@ checksum = "4abf1132c1fdf747d56bbc1bb52152400c70f336870f968b85e89ea422198ae3"
 dependencies = [
  "bitflags",
  "indexmap",
+]
+
+[[package]]
+name = "whos-watching"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "wiggly-text"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
+]
+
+[[package]]
+name = "write-upper-case"
+version = "1.0.0"
+dependencies = [
+ "serde",
+ "serde_json",
+ "serein-extension-sdk 0.1.0",
 ]
 
 [[package]]

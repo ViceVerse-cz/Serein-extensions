@@ -1,0 +1,27 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "whos-watching",
+  "name": "Who's Watching",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "whos_watching.wasm",
+  "capabilities": [
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "stream-watchers",
+      "title": "Stream Viewers Inspector",
+      "surface": "panel",
+      "label": "Who's Watching"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Live viewer count and watcher identity inspector for active screen shares."
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "favorite-anything",
+  "name": "Favorite Anything",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "favorite_anything.wasm",
+  "capabilities": [
+    "selected_message",
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "favorite-toggle",
+      "title": "Favorite Message",
+      "surface": "panel",
+      "label": "Favorite"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Bookmark and favorite messages, links, and media locally."
+}

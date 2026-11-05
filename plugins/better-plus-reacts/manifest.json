@@ -1,0 +1,27 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "better-plus-reacts",
+  "name": "Better Plus Reacts",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "better_plus_reacts.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "parse-plus-react",
+      "title": "Parse +React Notation",
+      "surface": "composer",
+      "label": "+React"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Quick react to previous messages using +1 :emoji: notation in composer."
+}

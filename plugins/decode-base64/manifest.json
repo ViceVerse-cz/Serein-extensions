@@ -1,0 +1,27 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "decode-base64",
+  "name": "Decode Base64",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "decode_base64.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "decode",
+      "title": "Decode Base64",
+      "surface": "composer",
+      "label": "Decode Base64"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Right-click context decode of base64 strings found in chat messages."
+}

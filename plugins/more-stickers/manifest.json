@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "more-stickers",
+  "name": "More Stickers",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "more_stickers.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "sticker-panel",
+      "title": "Sticker Packs",
+      "surface": "panel",
+      "label": "Stickers"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Extended sticker picker with custom packs and quick send."
+}

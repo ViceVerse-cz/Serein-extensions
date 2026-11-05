@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "remix-revived",
+  "name": "Remix Revived",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "remix_revived.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "remix-tool",
+      "title": "Remix Image",
+      "surface": "composer",
+      "label": "Remix"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Revived Discord image remixing and meme overlay tool."
+}

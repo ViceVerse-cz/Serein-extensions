@@ -1,0 +1,27 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "voice-channel-log",
+  "name": "Voice Channel Log",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "voice_channel_log.wasm",
+  "capabilities": [
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "voice-log-panel",
+      "title": "Voice Activity Journal",
+      "surface": "panel",
+      "label": "Voice Log"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Log voice room events (joins, leaves, mutes, deafens) to a local session journal."
+}

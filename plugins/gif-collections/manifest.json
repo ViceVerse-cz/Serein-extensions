@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "gif-collections",
+  "name": "GIF Collections",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "gif_collections.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "open-collections",
+      "title": "GIF Collections",
+      "surface": "panel",
+      "label": "GIF Folders"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Organize favorite GIFs into custom tag-based collections."
+}

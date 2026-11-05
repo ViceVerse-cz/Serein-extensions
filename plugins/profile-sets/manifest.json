@@ -1,0 +1,27 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "profile-sets",
+  "name": "Profile Sets",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "profile_sets.wasm",
+  "capabilities": [
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "profile-sets-panel",
+      "title": "Saved Profile Sets",
+      "surface": "panel",
+      "label": "Profile Sets"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Save and quickly switch between different profile themes, bios, and avatars."
+}

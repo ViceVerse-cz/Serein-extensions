@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "show-song-name",
+  "name": "Show Song Name",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "show_song_name.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "insert-song",
+      "title": "Insert Now Playing Song",
+      "surface": "composer",
+      "label": "Now Playing"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Display current track and artist from music RPC in chat status."
+}

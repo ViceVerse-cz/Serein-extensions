@@ -1,0 +1,27 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "split-large-messages",
+  "name": "Split Large Messages",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "split_large_messages.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "split",
+      "title": "Split Message",
+      "surface": "composer",
+      "label": "Split"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Auto-split messages exceeding 2000 characters into multiple sequential chunks."
+}

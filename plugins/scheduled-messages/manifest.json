@@ -1,0 +1,34 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "scheduled-messages",
+  "name": "Scheduled Messages",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "scheduled_messages.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "schedule-msg",
+      "title": "Schedule Message",
+      "surface": "composer",
+      "label": "Schedule"
+    },
+    {
+      "id": "view-queue",
+      "title": "View Message Queue",
+      "surface": "panel",
+      "label": "Queue"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Queue messages to send at a specific future date and time."
+}

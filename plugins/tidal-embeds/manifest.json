@@ -1,0 +1,27 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "tidal-embeds",
+  "name": "Tidal Embeds",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "tidal_embeds.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "tidal-card",
+      "title": "Format Tidal Link",
+      "surface": "composer",
+      "label": "Tidal Embed"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Render rich embed cards for Tidal tracks, albums, and playlists."
+}

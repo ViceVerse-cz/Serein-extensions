@@ -1,0 +1,27 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "bypass-status",
+  "name": "Bypass Status",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "bypass_status.wasm",
+  "capabilities": [
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "status-toggle",
+      "title": "Bypass Status Options",
+      "surface": "panel",
+      "label": "Bypass Status"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Retain custom status text when switching presence between Online, Idle, and DND."
+}

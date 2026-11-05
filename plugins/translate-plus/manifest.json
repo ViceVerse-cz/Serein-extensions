@@ -1,0 +1,34 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "translate-plus",
+  "name": "Translate+",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "translate_plus.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "translate-msg",
+      "title": "Translate+ Message",
+      "surface": "composer",
+      "label": "Translate+"
+    },
+    {
+      "id": "engine-settings",
+      "title": "Translation Engines",
+      "surface": "panel",
+      "label": "Engines"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Multi-engine translation engine supporting DeepL, Google, and LibreTranslate."
+}

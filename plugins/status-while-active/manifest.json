@@ -1,0 +1,27 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "status-while-active",
+  "name": "Status While Active",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "status_while_active.wasm",
+  "capabilities": [
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "active-rules",
+      "title": "Activity-Based Status Rules",
+      "surface": "panel",
+      "label": "Status Active"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Automatically adjust status and presence while playing games or streaming."
+}

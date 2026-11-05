@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "steam-status-sync",
+  "name": "Steam Status Sync",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "steam_status_sync.wasm",
+  "capabilities": [
+    "rich_presence",
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "steam-sync-panel",
+      "title": "Steam Sync Config",
+      "surface": "panel",
+      "label": "Steam Sync"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Sync active Steam games and achievements to Discord Rich Presence."
+}

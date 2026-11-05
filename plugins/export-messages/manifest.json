@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "export-messages",
+  "name": "Export Messages",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "export_messages.wasm",
+  "capabilities": [
+    "selected_message",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "export-md",
+      "title": "Export Selected to Markdown",
+      "surface": "composer",
+      "label": "Export MD"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Export channel message history or selected messages to Markdown or JSON."
+}

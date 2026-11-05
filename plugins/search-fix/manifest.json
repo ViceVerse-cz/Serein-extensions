@@ -1,0 +1,34 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "search-fix",
+  "name": "Search Fix & Helper",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "search_fix.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "insert-filter",
+      "title": "Insert Search Filter",
+      "surface": "composer",
+      "label": "Search Filter"
+    },
+    {
+      "id": "search-help",
+      "title": "Search Syntax Guide",
+      "surface": "panel",
+      "label": "Search Help"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Advanced search syntax suggestions and filters for chat query building."
+}

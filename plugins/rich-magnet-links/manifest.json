@@ -1,0 +1,27 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "rich-magnet-links",
+  "name": "Rich Magnet Links",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "rich_magnet_links.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "expand-magnet",
+      "title": "Expand Magnet Link",
+      "surface": "composer",
+      "label": "Expand Magnet"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Parse magnet links in messages and render torrent metadata (name, size, trackers) inline."
+}

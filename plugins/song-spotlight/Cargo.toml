@@ -1,0 +1,13 @@
+[package]
+name = "song-spotlight"
+version = "1.0.0"
+edition = "2024"
+publish = false
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+serein-extension-sdk = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }

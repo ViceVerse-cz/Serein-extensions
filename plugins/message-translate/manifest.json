@@ -1,0 +1,34 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "message-translate",
+  "name": "Message Translate",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "message_translate.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "translate",
+      "title": "Translate Message",
+      "surface": "composer",
+      "label": "Translate"
+    },
+    {
+      "id": "settings",
+      "title": "Translation Settings",
+      "surface": "panel",
+      "label": "Settings"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Quick translate selected chat messages via a configurable external translation API."
+}

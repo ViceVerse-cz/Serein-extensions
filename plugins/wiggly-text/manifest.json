@@ -1,0 +1,27 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "wiggly-text",
+  "name": "Wiggly Text",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "wiggly_text.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "wiggle",
+      "title": "Wiggle Text",
+      "surface": "composer",
+      "label": "Wiggle"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Apply wavy/wiggly Unicode formatting to composed messages (\u1e87\u1e2d\u0121\u0121\u1e37\u1e8f)."
+}

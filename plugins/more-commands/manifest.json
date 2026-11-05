@@ -1,0 +1,33 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "more-commands",
+  "name": "More Commands",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "more_commands.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "shrug",
+      "title": "Insert /shrug",
+      "surface": "composer",
+      "label": "/shrug"
+    },
+    {
+      "id": "tableflip",
+      "title": "Insert /tableflip",
+      "surface": "composer",
+      "label": "/tableflip"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Fun and utility slash commands: /shrug, /tableflip, /unflip, /lenny."
+}
