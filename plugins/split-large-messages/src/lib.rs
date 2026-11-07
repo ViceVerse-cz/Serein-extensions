@@ -25,8 +25,13 @@ fn chunk_text(text: &str, limit: usize) -> Vec<String> {
     let mut out = Vec::new();
     let mut rem = text;
     while rem.len() > limit {
-        let split = rem[..limit].rfind(|c: char| c == ' ' || c == '\n')
-            .unwrap_or(limit);
+        let mut max_boundary = limit;
+        while !rem.is_char_boundary(max_boundary) {
+            max_boundary -= 1;
+        }
+        let split = rem[..max_boundary]
+            .rfind(|c: char| c == ' ' || c == '\n')
+            .unwrap_or(max_boundary);
         out.push(rem[..split].trim_end().to_owned());
         rem = rem[split..].trim_start();
     }

@@ -7,8 +7,7 @@ fn handle(inv: Invocation) -> Output {
     }
     let text = inv.composer.as_deref().unwrap_or("");
     let replacement = if text.contains("@someone") {
-        // Substitute @someone with a dynamic random mention token
-        text.replace("@someone", "@someone")
+        text.replace("@someone", "@someone (random)")
     } else if text.is_empty() {
         "@someone ".to_string()
     } else {

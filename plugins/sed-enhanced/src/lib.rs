@@ -35,6 +35,9 @@ fn apply_sed(pattern: &str, target: &str) -> Option<String> {
     }
     let from = parts[0];
     let to = parts[1];
+    if from.is_empty() {
+        return None;
+    }
     let flags = parts.get(2).copied().unwrap_or("");
     let result = if flags.contains('g') {
         target.replace(from, to)

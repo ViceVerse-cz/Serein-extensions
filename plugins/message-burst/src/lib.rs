@@ -27,20 +27,27 @@ fn handle(inv: Invocation) -> Output {
 
 fn split_at_words(text: &str, limit: usize) -> Vec<String> {
     let mut chunks = Vec::new();
-    let mut start = 0;
-    while start < text.len() {
-        let end = (start + limit).min(text.len());
-        let slice = &text[start..end];
-        let break_at = if end == text.len() {
-            slice.len()
-        } else {
-            slice.rfind(' ').unwrap_or(slice.len())
-        };
-        let piece = text[start..start + break_at].trim().to_owned();
-        if !piece.is_empty() {
-            chunks.push(piece);
+    let mut rem = text;
+    while !rem.is_empty() {
+        if rem.len() <= limit {
+            let piece = rem.trim();
+            if !piece.is_empty() {
+                chunks.push(piece.to_owned());
+            }
+            break;
         }
-        start += break_at + 1;
+        let mut max_boundary = limit;
+        while !rem.is_char_boundary(max_boundary) {
+            max_boundary -= 1;
+        }
+        let break_at = rem[..max_boundary]
+            .rfind(' ')
+            .unwrap_or(max_boundary);
+        let piece = rem[..break_at].trim();
+        if !piece.is_empty() {
+            chunks.push(piece.to_owned());
+        }
+        rem = rem[break_at..].trim_start();
     }
     chunks
 }

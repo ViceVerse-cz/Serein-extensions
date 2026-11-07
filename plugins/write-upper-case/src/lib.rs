@@ -15,10 +15,17 @@ fn handle(inv: Invocation) -> Output {
 fn to_title(text: &str) -> String {
     text.split_whitespace()
         .map(|word| {
-            let mut c = word.chars();
-            match c.next() {
+            let mut chars = word.chars();
+            match chars.next() {
                 None => String::new(),
-                Some(f) => f.to_uppercase().to_string() + c.as_str(),
+                Some(f) => {
+                    let mut s = String::new();
+                    for up in f.to_uppercase() {
+                        s.push(up);
+                    }
+                    s.push_str(chars.as_str());
+                    s
+                }
             }
         })
         .collect::<Vec<_>>()
@@ -26,10 +33,19 @@ fn to_title(text: &str) -> String {
 }
 
 fn to_sponge(text: &str) -> String {
-    text.chars()
-        .enumerate()
-        .map(|(i, c)| if i % 2 == 0 { c.to_uppercase().next().unwrap_or(c) } else { c.to_lowercase().next().unwrap_or(c) })
-        .collect()
+    let mut out = String::with_capacity(text.len());
+    for (i, c) in text.chars().enumerate() {
+        if i % 2 == 0 {
+            for up in c.to_uppercase() {
+                out.push(up);
+            }
+        } else {
+            for low in c.to_lowercase() {
+                out.push(low);
+            }
+        }
+    }
+    out
 }
 
 export!(handle);
