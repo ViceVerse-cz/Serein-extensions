@@ -7,7 +7,6 @@ validated Serein theme package conforming to catalog.py.
 """
 import argparse
 import json
-import os
 import re
 import sys
 from pathlib import Path
@@ -100,7 +99,8 @@ def sanitize_id(name: str) -> str:
 
 def color_to_hex(color_val: str, base_bg=(30, 34, 42)) -> str | None:
     """Normalize hex, rgb, or rgba to uppercase 6-digit #RRGGBB."""
-    color_val = color_val.strip()
+    color_val = re.sub(r"\s*!important\s*$", "", color_val.strip(), flags=re.IGNORECASE).strip()
+
     # #RGB or #RRGGBB
     hex_match = re.fullmatch(r"#([0-9a-fA-F]{3}|[0-9a-fA-F]{6})", color_val)
     if hex_match:
@@ -131,12 +131,26 @@ def color_to_hex(color_val: str, base_bg=(30, 34, 42)) -> str | None:
 
 
 def parse_css_variables(css_text: str) -> dict:
-    """Parse all --var-name: value; declarations from CSS."""
+    """Parse all --var-name: value; declarations from CSS, stripping !important and resolving var(--...)."""
     variables = {}
     for match in re.finditer(r"--([a-zA-Z0-9_-]+)\s*:\s*([^;]+);", css_text):
         var_name = match.group(1).lower().strip()
-        val = match.group(2).strip()
+        val = re.sub(r"\s*!important\s*$", "", match.group(2).strip(), flags=re.IGNORECASE).strip()
         variables[var_name] = val
+
+    # Multi-pass resolution for indirect variable references: var(--other-var)
+    for _ in range(3):
+        resolved_any = False
+        for var_name, val in list(variables.items()):
+            ref_match = re.fullmatch(r"var\s*\(\s*--([a-zA-Z0-9_-]+)\s*\)", val)
+            if ref_match:
+                target = ref_match.group(1).lower()
+                if target in variables and not variables[target].startswith("var("):
+                    variables[var_name] = variables[target]
+                    resolved_any = True
+        if not resolved_any:
+            break
+
     return variables
 
 
