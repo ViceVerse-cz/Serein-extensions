@@ -1,0 +1,23 @@
+{
+  "api_version": 1,
+  "id": "permissions-viewer",
+  "name": "Permissions Viewer (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/permissionsViewer",
+  "kind": "plugin",
+  "capabilities": [],
+  "actions": [
+    {
+      "id": "show-permissions",
+      "label": "Инспектор прав канала",
+      "surface": "panel"
+    },
+    {
+      "id": "calc-permissions",
+      "label": "Калькулятор битовой маски прав",
+      "surface": "panel"
+    }
+  ]
+}

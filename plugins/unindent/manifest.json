@@ -1,0 +1,20 @@
+{
+  "api_version": 1,
+  "id": "unindent",
+  "name": "Unindent Codeblocks (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/unindent",
+  "kind": "plugin",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "unindent-draft",
+      "label": "Убрать лишние отступы (Unindent)",
+      "surface": "composer"
+    }
+  ]
+}

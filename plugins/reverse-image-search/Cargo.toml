@@ -1,0 +1,14 @@
+[package]
+name = "reverse-image-search"
+version = "1.0.0"
+edition = "2024"
+license = "MIT OR Apache-2.0"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+url.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+serein-extension-sdk.workspace = true

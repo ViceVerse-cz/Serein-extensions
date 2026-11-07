@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "message-logger-enhanced",
+  "name": "Message Logger Enhanced",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "message_logger_enhanced.wasm",
+  "capabilities": [
+    "deleted_messages",
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "logger-panel",
+      "title": "Message History & Diffs",
+      "surface": "panel",
+      "label": "Message Logger"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Preserve deleted messages, track edits, and view diffs locally."
+}

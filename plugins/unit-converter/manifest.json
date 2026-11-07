@@ -1,0 +1,34 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "unit-converter",
+  "name": "Unit Converter",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "unit_converter.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "convert",
+      "title": "Convert Units",
+      "surface": "composer",
+      "label": "Convert"
+    },
+    {
+      "id": "settings",
+      "title": "Unit Settings",
+      "surface": "panel",
+      "label": "Settings"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Auto-convert between imperial and metric units (mi/km, \u00b0F/\u00b0C, lbs/kg) in messages."
+}

@@ -1,0 +1,32 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "spotify-share",
+  "name": "Spotify Share Commands",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "spotify_share.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "format-spotify",
+      "title": "Format Spotify Link",
+      "surface": "composer",
+      "label": "Format Spotify"
+    },
+    {
+      "id": "share-panel",
+      "title": "Spotify Share Helper",
+      "surface": "panel",
+      "label": "Share Panel"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

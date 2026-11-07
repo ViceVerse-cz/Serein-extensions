@@ -1,2 +1,6 @@
 __pycache__/
 target/
+equicord_*.json
+vencord/
+serein/
+

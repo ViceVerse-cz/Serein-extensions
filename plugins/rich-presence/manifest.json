@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "rich-presence",
+  "name": "Rich Presence",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "rich_presence.wasm",
+  "capabilities": [
+    "rich_presence",
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "edit-rpc",
+      "title": "Custom Rich Presence Editor",
+      "surface": "panel",
+      "label": "RPC Status"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Configurable custom Rich Presence game and activity statuses."
+}

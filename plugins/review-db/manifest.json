@@ -1,0 +1,33 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "review-db",
+  "name": "ReviewDB User Reputation & Trust",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "review_db.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "manage-reviews",
+      "title": "ReviewDB Reputation & Ratings Hub",
+      "surface": "panel",
+      "label": "Manage Reviews"
+    },
+    {
+      "id": "expand-reviews",
+      "title": "Insert User Reviews / Rating Summary",
+      "surface": "composer",
+      "label": "Expand Reviews"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

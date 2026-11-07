@@ -1,0 +1,30 @@
+{
+  "api_version": 1,
+  "id": "channel-activity",
+  "name": "Channel Activity (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/channelActivity",
+  "kind": "plugin",
+  "capabilities": [
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "show-activity",
+      "label": "Статистика активности канала",
+      "surface": "panel"
+    },
+    {
+      "id": "reset-activity",
+      "label": "Сбросить статистику",
+      "surface": "panel"
+    },
+    {
+      "id": "on-message-event",
+      "label": "Анализ сообщений",
+      "surface": "panel"
+    }
+  ]
+}

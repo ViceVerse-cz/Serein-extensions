@@ -1,0 +1,23 @@
+{
+  "api_version": 1,
+  "id": "view-icons",
+  "name": "View Server Icons & Assets (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/viewIcons",
+  "kind": "plugin",
+  "capabilities": [],
+  "actions": [
+    {
+      "id": "show-assets",
+      "label": "Ассеты и иконки сервера",
+      "surface": "panel"
+    },
+    {
+      "id": "copy-icon-url",
+      "label": "Скопировать ссылку на иконку",
+      "surface": "panel"
+    }
+  ]
+}

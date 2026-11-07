@@ -1,0 +1,33 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "translate-message",
+  "name": "Translate Message",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "translate_message.wasm",
+  "capabilities": [
+    "selected_message",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "translate",
+      "title": "Translate Message",
+      "surface": "message",
+      "label": "Translate"
+    },
+    {
+      "id": "composer-translate",
+      "title": "Translate Draft",
+      "surface": "composer",
+      "label": "Composer Translate"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

@@ -1,0 +1,39 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "spotify-controls",
+  "name": "Spotify Controls",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "spotify_controls.wasm",
+  "capabilities": [
+    "rich_presence",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "control-panel",
+      "title": "Spotify Controls",
+      "surface": "panel",
+      "label": "Control Panel"
+    },
+    {
+      "id": "share-song",
+      "title": "Share Now Playing",
+      "surface": "composer",
+      "label": "Share Song"
+    },
+    {
+      "id": "toggle-presence",
+      "title": "Toggle Spotify Presence",
+      "surface": "panel",
+      "label": "Toggle Presence"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

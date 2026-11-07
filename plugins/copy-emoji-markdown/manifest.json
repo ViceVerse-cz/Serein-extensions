@@ -1,0 +1,26 @@
+{
+  "api_version": 1,
+  "id": "copy-emoji-markdown",
+  "name": "Copy Emoji Markdown (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/copyEmojiMarkdown",
+  "kind": "plugin",
+  "capabilities": [
+    "selected_message",
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "extract-emojis",
+      "label": "Извлечь эмодзи из сообщения",
+      "surface": "message"
+    },
+    {
+      "id": "copy-emoji-text",
+      "label": "Скопировать все найденные эмодзи",
+      "surface": "panel"
+    }
+  ]
+}

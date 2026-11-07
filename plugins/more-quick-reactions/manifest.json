@@ -1,0 +1,32 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "more-quick-reactions",
+  "name": "More Quick Reactions",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "more_quick_reactions.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "picker",
+      "title": "Quick Reactions",
+      "surface": "composer",
+      "label": "Picker"
+    },
+    {
+      "id": "reactions-panel",
+      "title": "Quick Reactions Palettes",
+      "surface": "panel",
+      "label": "Reactions Panel"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

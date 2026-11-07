@@ -1,0 +1,32 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "custom-commands",
+  "name": "Custom Commands & Macros",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "custom_commands.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "manage-commands",
+      "title": "Manage Custom Commands",
+      "surface": "panel",
+      "label": "Manage Commands"
+    },
+    {
+      "id": "expand-command",
+      "title": "Expand Custom Command Macro",
+      "surface": "composer",
+      "label": "Expand Command"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

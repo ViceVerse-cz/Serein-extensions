@@ -1,0 +1,33 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "better-sessions",
+  "name": "Better Sessions & Device Hub",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "better_sessions.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "manage-sessions",
+      "title": "Device Sessions & Security Audit",
+      "surface": "panel",
+      "label": "Manage Sessions"
+    },
+    {
+      "id": "expand-sessions",
+      "title": "Insert Sessions Report",
+      "surface": "composer",
+      "label": "Expand Sessions"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

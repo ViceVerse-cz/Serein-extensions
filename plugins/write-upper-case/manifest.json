@@ -1,0 +1,39 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "write-upper-case",
+  "name": "Write Upper Case",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "write_upper_case.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "title-case",
+      "title": "Title Case",
+      "surface": "composer",
+      "label": "Title Case"
+    },
+    {
+      "id": "upper-case",
+      "title": "UPPER CASE",
+      "surface": "composer",
+      "label": "UPPER"
+    },
+    {
+      "id": "sponge-case",
+      "title": "sPoNgE cAsE",
+      "surface": "composer",
+      "label": "Sponge"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Format composed text into Title Case, UPPER CASE, or sPoNgE cAsE."
+}

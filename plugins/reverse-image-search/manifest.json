@@ -1,0 +1,25 @@
+{
+  "api_version": 1,
+  "id": "reverse-image-search",
+  "name": "Reverse Image Search (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/reverseImageSearch",
+  "kind": "plugin",
+  "capabilities": [
+    "selected_message"
+  ],
+  "actions": [
+    {
+      "id": "search-image",
+      "label": "Поиск по картинке",
+      "surface": "message"
+    },
+    {
+      "id": "calc-engines",
+      "label": "Сформировать ссылки поиска",
+      "surface": "panel"
+    }
+  ]
+}

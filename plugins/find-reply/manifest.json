@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "find-reply",
+  "name": "Find Reply",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "find_reply.wasm",
+  "capabilities": [
+    "selected_message",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "jump-reply",
+      "title": "Jump to Original Reply",
+      "surface": "composer",
+      "label": "Find Reply"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Locate and jump to the original message in reply chains."
+}

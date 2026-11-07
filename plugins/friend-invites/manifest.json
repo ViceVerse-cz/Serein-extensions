@@ -1,0 +1,32 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "friend-invites",
+  "name": "Friend Invites",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "friend_invites.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "create-invite",
+      "title": "Friend Invite Link",
+      "surface": "composer",
+      "label": "Create Invite"
+    },
+    {
+      "id": "invite-panel",
+      "title": "Friend Invites Generator",
+      "surface": "panel",
+      "label": "Invite Panel"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

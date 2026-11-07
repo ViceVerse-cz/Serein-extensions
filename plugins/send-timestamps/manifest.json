@@ -1,0 +1,25 @@
+{
+  "api_version": 1,
+  "id": "send-timestamps",
+  "name": "Send Timestamps (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/sendTimestamps",
+  "kind": "plugin",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "show-picker",
+      "label": "Выбрать timestamp Discord",
+      "surface": "composer"
+    },
+    {
+      "id": "apply-timestamp",
+      "label": "Вставить timestamp",
+      "surface": "panel"
+    }
+  ]
+}

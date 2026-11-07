@@ -1,0 +1,32 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "better-settings",
+  "name": "Better Settings & Diagnostics",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "better_settings.wasm",
+  "capabilities": [
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "settings-hub",
+      "title": "Open Settings & Diagnostics Hub",
+      "surface": "panel",
+      "label": "Settings Hub"
+    },
+    {
+      "id": "export-config",
+      "title": "Export Client Config to Composer",
+      "surface": "composer",
+      "label": "Export Config"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

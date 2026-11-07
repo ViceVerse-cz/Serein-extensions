@@ -1,0 +1,30 @@
+{
+  "api_version": 1,
+  "id": "server-info",
+  "name": "Server & Channel Info (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/serverInfo",
+  "kind": "plugin",
+  "capabilities": [
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "inspect-server",
+      "label": "Информация о текущем сервере",
+      "surface": "panel"
+    },
+    {
+      "id": "copy-guild-id",
+      "label": "Скопировать Server ID",
+      "surface": "panel"
+    },
+    {
+      "id": "copy-channel-id",
+      "label": "Скопировать Channel ID",
+      "surface": "panel"
+    }
+  ]
+}

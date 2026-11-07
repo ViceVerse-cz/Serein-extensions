@@ -1,0 +1,34 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "signature",
+  "name": "Signature",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "signature.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "toggle-signature",
+      "title": "Toggle Signature",
+      "surface": "composer",
+      "label": "Signature"
+    },
+    {
+      "id": "settings",
+      "title": "Signature Settings",
+      "surface": "panel",
+      "label": "Settings"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Append a configurable personal signature to every sent message."
+}

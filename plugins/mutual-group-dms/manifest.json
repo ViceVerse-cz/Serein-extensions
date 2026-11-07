@@ -1,0 +1,25 @@
+{
+  "api_version": 1,
+  "id": "mutual-group-dms",
+  "name": "Mutual Group DMs (VenSerein)",
+  "version": "1.0.0",
+  "author": "VenSerein Team",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/Vendicated/Vencord/tree/main/src/plugins/mutualGroupDMs",
+  "kind": "plugin",
+  "capabilities": [
+    "selected_message"
+  ],
+  "actions": [
+    {
+      "id": "show-mutual-groups",
+      "label": "Найти общие группы",
+      "surface": "message"
+    },
+    {
+      "id": "refresh-groups",
+      "label": "Обновить список групп",
+      "surface": "panel"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "expression-manager",
+  "name": "Expression Manager & Kaomoji Hub",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "expression_manager.wasm",
+  "capabilities": [
+    "storage",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "manage-expressions",
+      "title": "Expression Manager & Kaomoji Quick Insert",
+      "surface": "panel",
+      "label": "Manage Expressions"
+    },
+    {
+      "id": "expand-expressions",
+      "title": "Insert Expressions / Expand Shortcuts",
+      "surface": "composer",
+      "label": "Expand Expressions"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein"
+}

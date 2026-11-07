@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "user-pfp",
+  "name": "User PFP & Banner",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "user_pfp.wasm",
+  "capabilities": [
+    "selected_message",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "get-pfp",
+      "title": "Inspect User Avatar & Banner",
+      "surface": "composer",
+      "label": "User PFP"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Quick link and high-resolution downloader for user profile pictures and banners."
+}

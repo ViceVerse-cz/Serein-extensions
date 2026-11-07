@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "rpc-editor",
+  "name": "RPC Editor",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "rpc_editor.wasm",
+  "capabilities": [
+    "rich_presence",
+    "storage"
+  ],
+  "actions": [
+    {
+      "id": "rpc-assets",
+      "title": "RPC Asset Editor",
+      "surface": "panel",
+      "label": "RPC Assets"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Advanced live editor for Rich Presence timestamps, assets, and buttons."
+}

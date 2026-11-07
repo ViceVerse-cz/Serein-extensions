@@ -1,0 +1,28 @@
+{
+  "$schema": "https://serein.viceverse.cz/schemas/extension-manifest.json",
+  "id": "repeat-messages",
+  "name": "Repeat Messages",
+  "version": "1.0.0",
+  "authors": [
+    "VenSerein Contributors"
+  ],
+  "entrypoint": "repeat_messages.wasm",
+  "capabilities": [
+    "selected_message",
+    "composer"
+  ],
+  "actions": [
+    {
+      "id": "repeat",
+      "title": "Repeat Message",
+      "surface": "composer",
+      "label": "Repeat"
+    }
+  ],
+  "api_version": 1,
+  "kind": "plugin",
+  "author": "VenSerein Contributors",
+  "license": "MIT OR Apache-2.0",
+  "source": "https://github.com/ViceVerse-cz/Serein",
+  "description": "Repeat or duplicate messages with a single click."
+}
