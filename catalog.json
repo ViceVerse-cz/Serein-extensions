@@ -12,10 +12,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/catppuccin-mocha.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/catppuccin-mocha.serein-extension",
       "sha256": "8792968da71624fa8ef80cb3ad43d4dca4ddcee9c93a1688f3b7da755b8efe3a",
       "download_bytes": 1248,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -30,12 +30,12 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/forest-piano.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/forest-piano.serein-extension",
       "sha256": "3fffa784b2f406b4ad435fa5804baa1bed9ead9682254546ccf332c2bae12505",
       "download_bytes": 6452658,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/forest-piano.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/forest-piano.png",
         "sha256": "f3e8df1046c03eeed4a477530c5dec114ee582caa0ec4bb28e24b4131b8ce29f",
         "download_bytes": 147517
       }
@@ -51,12 +51,12 @@
         "source": "https://github.com/ViceVerse-cz/rustcord",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/forest.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/forest.serein-extension",
       "sha256": "af5446105f3620961e74a7c358feffad19aa9e1ccc4ab6b998003a12bd72d72f",
       "download_bytes": 1456,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/forest.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/forest.png",
         "sha256": "a55d6c1dedee9e9696bd7a634aca41977f20eb428580d32da12a0dc477b543a9",
         "download_bytes": 66398
       }
@@ -72,12 +72,12 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/golden.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/golden.serein-extension",
       "sha256": "0018a46e9c5e4d0431ba02a860b3d7deffab9c159c5d52e04928421ccb3be586",
       "download_bytes": 1794,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/golden.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/golden.png",
         "sha256": "1e9df1eaf7fe9906d9088924403f8cf4f4cd71527ce0af97681c600704536a1b",
         "download_bytes": 66164
       }
@@ -93,12 +93,12 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/katana.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/katana.serein-extension",
       "sha256": "cf4ef3755d9208e700ee721b66edad3fceb4f26e52d09b82e645bf49070f1a15",
       "download_bytes": 994,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/katana.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/katana.png",
         "sha256": "693726039bd2edac1d44bdaa624c7b2bb3cf3e5245b87316a925418902097b06",
         "download_bytes": 66257
       }
@@ -114,12 +114,12 @@
         "source": "https://github.com/ViceVerse-cz/rustcord",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/latte.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/latte.serein-extension",
       "sha256": "4717d418dd275a83f33aa513cac04ea03c49edccc8d67e5840655fc22ddd65d4",
       "download_bytes": 1454,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/latte.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/latte.png",
         "sha256": "3c0a7016eb6994d1be6fb27368a06cd717657f4a042db7647255d7cbd6387275",
         "download_bytes": 65904
       }
@@ -135,12 +135,12 @@
         "source": "https://github.com/ViceVerse-cz/rustcord",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/midnight.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/midnight.serein-extension",
       "sha256": "006997c86297b1cb9e87188f712ab2c0d6017ee97c44270306afe50a71bb4308",
       "download_bytes": 1460,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/midnight.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/midnight.png",
         "sha256": "81eb4c6bd634cc7e624a7d9714ae2503e8e05260470b7ff0af63daa3e0a98c16",
         "download_bytes": 65740
       }
@@ -156,10 +156,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/nord-theme.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/nord-theme.serein-extension",
       "sha256": "9cca40bf6fa65926951869470c14cbbc68e8dbb6c16b1ecb24cbd2d9cef47bfd",
       "download_bytes": 1229,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -172,12 +172,12 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/obsidian.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/obsidian.serein-extension",
       "sha256": "e42cb1ad38f0c495375343bb8e64852ccb98a5a860293cd9ce3a86bbec1f0dd5",
       "download_bytes": 1838,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/obsidian.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/obsidian.png",
         "sha256": "8860202e554147302139d5664714d65bdf6b94e8729228d4937a25c55f405588",
         "download_bytes": 66162
       }
@@ -193,12 +193,12 @@
         "source": "https://github.com/ViceVerse-cz/rustcord",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/ocean.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/ocean.serein-extension",
       "sha256": "ec95e43e6167d95393b279062b41587408ad270ebcc61a5eed2a71865c8387cd",
       "download_bytes": 960,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/ocean.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/ocean.png",
         "sha256": "7fd9532d983c52ec9f86a345d23e2c6822597ca29a34833958be816e0bcc1913",
         "download_bytes": 85376
       }
@@ -214,10 +214,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/one-dark-pro.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/one-dark-pro.serein-extension",
       "sha256": "92eac26511497604db5e35a377041487cc1f47983cdc0ee1482f7f882b78ed4e",
       "download_bytes": 1239,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -230,12 +230,12 @@
         "source": "https://github.com/ViceVerse-cz/rustcord",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/rose.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/rose.serein-extension",
       "sha256": "dbdd5a98f46559d107f26501308029e38e8fb68cc74ef23aa18baf9552cd139f",
       "download_bytes": 1452,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/rose.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/rose.png",
         "sha256": "c5b3380a76863535afb52314db03240cf86f481e7805f73ac3cd6789a404980b",
         "download_bytes": 65114
       }
@@ -253,12 +253,12 @@
         "capabilities": [],
         "actions": []
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/soft-white.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/soft-white.serein-extension",
       "sha256": "e981bf8d1230bf540e531d49eecde1f06769e635b55ba2b4eb376dab668248a0",
       "download_bytes": 5860518,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/soft-white.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/soft-white.png",
         "sha256": "dbe0d64360c5eba021b03122cae6776a9f05585f5335c47580684e7d3ac73e60",
         "download_bytes": 110890
       }
@@ -274,12 +274,12 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/teal.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/teal.serein-extension",
       "sha256": "1c794d14b12bb470164e2c220051de7c20b13de8175390595a559f551bb6409a",
       "download_bytes": 1827,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/teal.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/teal.png",
         "sha256": "07f686309198ce01ddf28bbc9e1d07b91fac27949e4e4c769c3c88e084b6c36c",
         "download_bytes": 65843
       }
@@ -295,10 +295,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "kind": "theme"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/themes/tokyo-night.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/themes/tokyo-night.serein-extension",
       "sha256": "dca854362be7fc57b9861bf3becfc035e2296cbdef561fa0df373207e179ed86",
       "download_bytes": 1237,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -328,10 +328,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Inspect granular permission bitmasks and role matrix for channels and categories."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/advanced-permissions.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/advanced-permissions.serein-extension",
       "sha256": "9325f331e6ebe33df82290bf2dd95a37b611c947b7f3abeab039debed5144015",
       "download_bytes": 359920,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -365,12 +365,12 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/api-proxy.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/api-proxy.serein-extension",
       "sha256": "e6ce691505357f3e19d5db33762e8d54da355a35b19fde309edec04fc0a7a85c",
       "download_bytes": 920979,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/api-proxy.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/api-proxy.png",
         "sha256": "3764a08ea4cfda49a365bdf79480b61753130c6cf623083ef64410a88ddb64a1",
         "download_bytes": 69881
       }
@@ -403,10 +403,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Mention someone randomly in chat using an @someone selector."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/at-someone.serein-extension",
-      "sha256": "f2281ce26f50a74f9030e43a4945fcccd83b2ea71760fbf97ee9ef9869d6b5b5",
-      "download_bytes": 364121,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/at-someone.serein-extension",
+      "sha256": "1bf04529d2982a4150ec296c42bc72fc70a242d1d5c968db4b1aa3f8126e7cb8",
+      "download_bytes": 364314,
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -436,10 +436,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Auto-zip batches of files before upload when multiple files are selected."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/auto-zipper.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/auto-zipper.serein-extension",
       "sha256": "761afa75f644635a97361783b62e9e9c6f098a8d6b3a9e55cf5c03d5c88ac601",
       "download_bytes": 360003,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -469,10 +469,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Enhanced activity launcher and Rich Presence activity inspector."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/better-activities.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/better-activities.serein-extension",
       "sha256": "d3f4dd01e2bd8c6091824d08b834f134ed21b636d38ba06685456242170a18b8",
       "download_bytes": 359940,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -509,10 +509,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Templates and presets for moderator ban and kick reasons."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/better-ban-reasons.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/better-ban-reasons.serein-extension",
       "sha256": "54f45686dbaf6ff230350e62d0ab232463328c362b2bde57c135a1ac69d45099",
       "download_bytes": 360774,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -542,10 +542,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Completely hide messages from blocked users instead of showing collapsed placeholders."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/better-blocked-users.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/better-blocked-users.serein-extension",
       "sha256": "166469d3760f5d4fb32a71eae49a4fcb4f76e84444a2d40469264d555a0da648",
       "download_bytes": 359885,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -575,10 +575,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Automatically fill command arguments and manage slash command shortcuts."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/better-commands.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/better-commands.serein-extension",
       "sha256": "91aeb1921de28759514cebaa7bb92be879a9939ee33d170d5cf3d6af68556237",
       "download_bytes": 361912,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -609,10 +609,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Forward messages with clean quote formatting, timestamp, and author credit."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/better-forwards.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/better-forwards.serein-extension",
       "sha256": "dd8815513636f8ff57e19930cdebd6c5beadbac9f3f618c96690c06496a2be20",
       "download_bytes": 366982,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -642,10 +642,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Crop, rotate, and annotate images before sending."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/better-image-editor.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/better-image-editor.serein-extension",
       "sha256": "2d1a7578ad0ad41107ad083756796c9dfcc6a93047c737349d3c49b500c0c665",
       "download_bytes": 359776,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -675,10 +675,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Inspect invite links, preview server icon, banner, and member count."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/better-invites.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/better-invites.serein-extension",
       "sha256": "598edca6d4a80be1435dd318646b89d783cf99100829a7bde7ddc6811cf13b2d",
       "download_bytes": 364349,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -708,10 +708,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Quick react to previous messages using +1 :emoji: notation in composer."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/better-plus-reacts.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/better-plus-reacts.serein-extension",
       "sha256": "273acd87bb01381a9bb43172e27b111fcb02f766a35badc46e07d8e9f44672b7",
       "download_bytes": 363473,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -746,10 +746,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/better-role-context.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/better-role-context.serein-extension",
       "sha256": "899c9c4984f45fbc8cf1659254d7d5adc6b3a0c4be9b1c142de27b19da4263ec",
       "download_bytes": 1118573,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -785,10 +785,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/better-sessions.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/better-sessions.serein-extension",
       "sha256": "9cf724e33843075ebc04a6ab325517486d5e7b073e6f99d06d9b8e033001fed8",
       "download_bytes": 444644,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -823,10 +823,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/better-settings.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/better-settings.serein-extension",
       "sha256": "4a36114c5654cf18f4a6e3afceaf815390f6945231e0cc9a89cb46363dcc9abe",
       "download_bytes": 1152335,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -857,10 +857,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Client-side content filter blocking messages containing specific keywords."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/block-keywords.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/block-keywords.serein-extension",
       "sha256": "b8ee10e687142c7a280588ad7114a6203b1f4fdac9dc0836a0926e8a8cea34b4",
       "download_bytes": 360117,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -890,10 +890,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Pin or unpin messages immediately without confirmation dialogs."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/bypass-pin-prompt.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/bypass-pin-prompt.serein-extension",
       "sha256": "e572714dd6d9d03e8be7ddc27a7170008a0bd6c764581fe839aeca2a2e778c0d",
       "download_bytes": 359796,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -923,10 +923,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Retain custom status text when switching presence between Online, Idle, and DND."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/bypass-status.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/bypass-status.serein-extension",
       "sha256": "6c4d1c7c3e8d1748bcbe377570212c5a5deaa7b8efa91a055309bd790c0110d5",
       "download_bytes": 359336,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -959,10 +959,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/channel-activity.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/channel-activity.serein-extension",
       "sha256": "ead547591949e46c5e916bc8a82abee81e0f8314b14233870411e29b412b049c",
       "download_bytes": 1213879,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -991,10 +991,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/character-counter.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/character-counter.serein-extension",
       "sha256": "31386ee299b38e1956b1d0ef97083e67854c618bf4f4d2a4e22a10889cbaca89",
       "download_bytes": 368329,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1034,10 +1034,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/clear-urls.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/clear-urls.serein-extension",
       "sha256": "5a57b1b45b812b9183776dddb366ef285ca0fc698c3812e5d033b523b9671c60",
       "download_bytes": 1864743,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1067,10 +1067,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Make role mentions and badges clickable to copy role ID or filter members."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/clickable-roles.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/clickable-roles.serein-extension",
       "sha256": "4205aed86695b389150f0b4ec65408cfe9fd283f28f0dfb508350249e1d69d6a",
       "download_bytes": 359791,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1100,10 +1100,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Block users purely locally without alerting Discord servers or mutating relationships."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/client-side-block.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/client-side-block.serein-extension",
       "sha256": "53e6072e01af1034092cf859275412d92060053cf7eac823617c093572310d68",
       "download_bytes": 359739,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1132,10 +1132,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/copy-emoji-markdown.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/copy-emoji-markdown.serein-extension",
       "sha256": "c6e012b86351d5e2f072423cab32a7d773d3c52cce086c60a7f8bd40812979a9",
       "download_bytes": 1224688,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1168,10 +1168,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/copy-user-urls.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/copy-user-urls.serein-extension",
       "sha256": "197253058b4e9d31a12bead28432b55f08d582139e538673c1f797c37eb64234",
       "download_bytes": 1227176,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1206,10 +1206,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/custom-commands.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/custom-commands.serein-extension",
       "sha256": "526d5633599e99895641e4be428e3efdc38d6065a6677181a183aea9f4a0da23",
       "download_bytes": 468423,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1258,12 +1258,12 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/custom-rpc.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/custom-rpc.serein-extension",
       "sha256": "f6f70f0f537052910a6e5497bf4d40a6d8d7e5ece3be4d4678a09d872e31b0ac",
       "download_bytes": 409132,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/custom-rpc.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/custom-rpc.png",
         "sha256": "32a89d15bce3c35b0d2d176f4a0fc2c30dc1be01bdd0db6a634910fdacb1bac9",
         "download_bytes": 43030
       }
@@ -1296,10 +1296,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Extended timeout options for custom status expiration (e.g. 10m, 2h, 3 days)."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/custom-status-timeouts.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/custom-status-timeouts.serein-extension",
       "sha256": "fba912c773dac081083d87499e7d757e1281abd7d49cf9f12e35bad973b63c53",
       "download_bytes": 359876,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1329,10 +1329,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Right-click context decode of base64 strings found in chat messages."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/decode-base64.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/decode-base64.serein-extension",
       "sha256": "c1c031aaaba8a2662a3b004a472ffc92b7a30b91576199816b8f822a9ef45e79",
       "download_bytes": 377160,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1355,12 +1355,12 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/emoji-sticker-images.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/emoji-sticker-images.serein-extension",
       "sha256": "f2c3ce66659f88bd7a576f8288e9bbfa04a78378f0828cd6a065aace51f3a90f",
       "download_bytes": 205642,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/emoji-sticker-images.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/emoji-sticker-images.png",
         "sha256": "7ad55f648fcc33678975531bcc22fc4f4592c2700db24209a84caed5e695a41e",
         "download_bytes": 55312
       }
@@ -1394,10 +1394,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Export channel message history or selected messages to Markdown or JSON."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/export-messages.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/export-messages.serein-extension",
       "sha256": "24c11425a5d6031ea15a29cf3ee4a374f3766bcb55e077f4fa513a7cda05977d",
       "download_bytes": 359158,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1433,10 +1433,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/expression-manager.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/expression-manager.serein-extension",
       "sha256": "b1e849fff0014dfb02f2996c7717aeacc566f01d7ee1dd0805d7ab2a37f55725",
       "download_bytes": 516030,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1466,10 +1466,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Skip the channel name confirmation prompt when deleting channels."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/fast-delete-channels.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/fast-delete-channels.serein-extension",
       "sha256": "5ed47dbd9b72c3e4a212bba68c47305af62d2e79d14f765a2083138691f6b183",
       "download_bytes": 359905,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1500,10 +1500,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Bookmark and favorite messages, links, and media locally."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/favorite-anything.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/favorite-anything.serein-extension",
       "sha256": "2ba41291dc05915c34a53b49940fb495b9ffb1478bc28162664c405dbf5eff42",
       "download_bytes": 359725,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1533,10 +1533,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Helper for file uploads with size warnings and auto-splitting."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/file-upload.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/file-upload.serein-extension",
       "sha256": "10fbf6485c8686261fa64f886de095fdfe600fcd98f3bb4fd33caa156691bbdc",
       "download_bytes": 359259,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1567,10 +1567,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Locate and jump to the original message in reply chains."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/find-reply.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/find-reply.serein-extension",
       "sha256": "8312229a5232ba626547c3be63e3c858b167e0a0af4696834b43fa9af43f807d",
       "download_bytes": 359845,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1600,10 +1600,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Detect missing or wrong file extensions by MIME type sniffing and correct them before upload."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/fix-file-extensions.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/fix-file-extensions.serein-extension",
       "sha256": "31e4909b5ab7a8493f6e3512f4c8096080f0022af3e6657ded7bd241a182febb",
       "download_bytes": 390854,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1640,10 +1640,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Store and quickly paste gaming friend codes (Steam, Switch, PSN, Xbox)."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/friend-codes.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/friend-codes.serein-extension",
       "sha256": "12a40d48d99bf35c93232cc66f1383b4a405153ce320abf9b2a5bcc6070040e9",
       "download_bytes": 361116,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1678,10 +1678,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/friend-invites.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/friend-invites.serein-extension",
       "sha256": "89b658a13fa5bb6659d7f6782f247dccc1a286a4537340257c34eafd6dca69f0",
       "download_bytes": 1094311,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1711,10 +1711,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Detect and notify when messages mentioning you are quickly deleted (ghost pings)."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/ghosted.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/ghosted.serein-extension",
       "sha256": "2235b4d7b214dd687962ef543e75e7daacd6231d522659ec504fb6e9de29fa45",
       "download_bytes": 359671,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1745,10 +1745,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Organize favorite GIFs into custom tag-based collections."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/gif-collections.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/gif-collections.serein-extension",
       "sha256": "b5dfcd8adf0941c193474ff3acdf9c899f5016572c754cf9e8915f00c057398d",
       "download_bytes": 359697,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1778,10 +1778,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Quick utility to convert short clips and image sequences into GIFs."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/gif-maker.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/gif-maker.serein-extension",
       "sha256": "231c201e0c24f3bb5989dd91085fe5a67db423a0bfaa28e5404244317583f75c",
       "download_bytes": 359718,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1811,10 +1811,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Expand GitHub repository links with stars, forks, and description."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/github-repos.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/github-repos.serein-extension",
       "sha256": "4c9d91431b5a791f77953d55d3b17eed6a89ed9bd6c6c61c31c9511ddff2abdc",
       "download_bytes": 364429,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1844,10 +1844,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Display contributor and supporter badges for VenSerein users."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/global-badges.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/global-badges.serein-extension",
       "sha256": "ab933a8314919241ff5477c22bc4ac79cb6cd19a8a43f752e2291776627e2d89",
       "download_bytes": 359784,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1877,10 +1877,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Generate direct Google search or LMGTFY links from selected text."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/google-that.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/google-that.serein-extension",
       "sha256": "7db5072a8662d7a4f64ebc217f78b9c85aa4ed3be30027654333d47dd8458b2d",
       "download_bytes": 362266,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1917,10 +1917,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Dump channel, role, and emoji IDs of current guild to JSON format."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/guild-picker-dumper.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/guild-picker-dumper.serein-extension",
       "sha256": "318e167d403330fe3642301da2b553d415ea12775b66796f187529ec443a96c9",
       "download_bytes": 360762,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1950,10 +1950,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Cache and remember nicknames, avatars, and bios even after users leave the server."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/i-remember-you.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/i-remember-you.serein-extension",
       "sha256": "6bb36d39db69b0bcf8fba115e150ca6f5725fdcbd6308d6ffbb9b2ea5191d2be",
       "download_bytes": 359695,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -1983,10 +1983,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Silently decline or ignore ringing incoming voice calls without answering."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/ignore-calls.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/ignore-calls.serein-extension",
       "sha256": "363064c4f1bb4cbfb5c7a2ba1514a892a20d84c633bbc4410898ce97e6325cba",
       "download_bytes": 359783,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2019,10 +2019,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/implicit-relationships.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/implicit-relationships.serein-extension",
       "sha256": "0e55c9f9572bd02337be3024ea63f72ab5eb0dd80fb08ff53cb6c60165b5ca61",
       "download_bytes": 1097859,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2052,10 +2052,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Command to list all members possessing a specific server role."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/in-role.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/in-role.serein-extension",
       "sha256": "f29b0d3f2d6a9f76bbe933eff9f9f51d4336bae064325a8e319e8dc0b9d245ab",
       "download_bytes": 361022,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2085,10 +2085,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Configure custom default settings for newly generated invite links."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/invite-defaults.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/invite-defaults.serein-extension",
       "sha256": "b547757b0a92b7751efa3b54db029062af309e8d282d3c2dd4a11e4171eeba45",
       "download_bytes": 359920,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2118,10 +2118,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Trigger custom desktop notifications whenever specific words are mentioned."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/keyword-notify.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/keyword-notify.serein-extension",
       "sha256": "8068bb263731a5d1c54e71af73381acbcba8f49bfc3605e67c49e4d625429858",
       "download_bytes": 360198,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2151,10 +2151,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Split and batch large message sequences into individual sends respecting Discord rate limits."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/message-burst.serein-extension",
-      "sha256": "083a96513b5db4d025b156e3c2f89dbd3206ddc6eff83d3685f169cdb7aef085",
-      "download_bytes": 366221,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/message-burst.serein-extension",
+      "sha256": "e642c5d6aaca695263ca73dde243a3aa263fe267c3eb39af8c3fb1edd5928099",
+      "download_bytes": 367473,
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2177,12 +2177,12 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/message-delete-protector.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/message-delete-protector.serein-extension",
       "sha256": "dffd601e3b85b17ae9bacc6deedc526e225c3ee81072ee5e8e64981da03bf6f9",
       "download_bytes": 338103,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082",
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41",
       "preview": {
-        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/previews/message-delete-protector.png",
+        "url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/previews/message-delete-protector.png",
         "sha256": "729063ad60d977fef21d630e07e09677ce07836b1a6bd18d447c3541af5a938c",
         "download_bytes": 65905
       }
@@ -2215,10 +2215,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Benchmark and display message load latency and gateway round-trip time."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/message-fetch-timer.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/message-fetch-timer.serein-extension",
       "sha256": "00277f7703ee936e973f7c6e68047d139c6f01c5d9c0eb4ccf0672df53cc1baf",
       "download_bytes": 359856,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2254,10 +2254,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/message-link-embeds.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/message-link-embeds.serein-extension",
       "sha256": "744f837a69490e97d7eab5be18bf56beb5b30d3023b27dcf9d3d3695e9c03357",
       "download_bytes": 941242,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2288,10 +2288,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Preserve deleted messages, track edits, and view diffs locally."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/message-logger-enhanced.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/message-logger-enhanced.serein-extension",
       "sha256": "7e947e0d93031ee21514b6b8bf49c1d50235c6eaddded674c7b7a1bfd5a73626",
       "download_bytes": 359803,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2321,10 +2321,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Granular notification alerts and sound triggers for designated contacts."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/message-notifier.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/message-notifier.serein-extension",
       "sha256": "7f6b96afa96cefcc9b0db8321ebbd8a5e02aa91170ed4c39700d84231f2d109d",
       "download_bytes": 359906,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2361,10 +2361,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Quick translate selected chat messages via a configurable external translation API."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/message-translate.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/message-translate.serein-extension",
       "sha256": "975fd038113786f73561d48877703134d9c887213ebbb4c99f53bf98fd2e5d9a",
       "download_bytes": 412453,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2394,10 +2394,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Configurable actions when middle-clicking messages, channels, or avatars."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/middle-click-tweaks.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/middle-click-tweaks.serein-extension",
       "sha256": "4232b4647d04c5e4ffdaee36c7ebb3795db962f96b6a2ea0e221c2219c3727a6",
       "download_bytes": 359942,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2433,10 +2433,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Fun and utility slash commands: /shrug, /tableflip, /unflip, /lenny."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/more-commands.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/more-commands.serein-extension",
       "sha256": "732e5c1e7e8f9ee4abc21ed253175a72f19b14bf074cc5560c485b8ba8d13e61",
       "download_bytes": 362241,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2471,10 +2471,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/more-quick-reactions.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/more-quick-reactions.serein-extension",
       "sha256": "51680c88d217d7efc71328d26f896aa891f29f1d9e98bdb2b83ed622d1298b61",
       "download_bytes": 368553,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2505,10 +2505,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Extended sticker picker with custom packs and quick send."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/more-stickers.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/more-stickers.serein-extension",
       "sha256": "12e60c46d975f7b26520815cbe7537cf82f32a547da69fae850ff9c9b86cc7c1",
       "download_bytes": 359834,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2538,10 +2538,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Customizable user tags (VIP, FRIEND, BOT, MOD, SYSTEM) displayed beside names."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/more-user-tags.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/more-user-tags.serein-extension",
       "sha256": "43cd027dd6c699bebdf8e05030a76e20857b0ef2cbdfe2b5e4704cb9c7048fae",
       "download_bytes": 359775,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2571,10 +2571,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Transport controls (play, pause, next) for active media players."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/music-controls.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/music-controls.serein-extension",
       "sha256": "2d3c689f7c2afc2fe78ccaa6ecb5b352147137133a99c3df8eb61010e5d5d16f",
       "download_bytes": 359830,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2603,10 +2603,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/music-rich-presence.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/music-rich-presence.serein-extension",
       "sha256": "542441e9a1599b880f37f195190bb3347688fc71bbb903114f6b66238533c903",
       "download_bytes": 377746,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2634,10 +2634,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/mutual-group-dms.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/mutual-group-dms.serein-extension",
       "sha256": "ca10f21d50ff7a26a2896dbca862180a07a2cc2240f89c04d03cb2c61e4d89dc",
       "download_bytes": 1129757,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2667,10 +2667,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Rewrite discord.com/ptb/canary message links to canonical discord.com links."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/normalize-message-links.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/normalize-message-links.serein-extension",
       "sha256": "4fcf20566e932de0c9cd2c3153d4f4e475e66a9382c2a7bc5ce9d2f2f761a501",
       "download_bytes": 363675,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2696,10 +2696,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/permissions-viewer.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/permissions-viewer.serein-extension",
       "sha256": "e85b1a7799e212522c418bd2676a3578070a09ab3bea5b111f33a5b57d0f9f2c",
       "download_bytes": 1123605,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2729,10 +2729,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Distinctive sounds and priority highlights for mentions and pings."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/ping-notifications.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/ping-notifications.serein-extension",
       "sha256": "28531205064597c29e25d5c5b25e2f11519282fef3566c6eb0154ff5d4a23e74",
       "download_bytes": 359854,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2769,10 +2769,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Auto-fix common English typos and punctuation errors before sending."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/polish-wording.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/polish-wording.serein-extension",
       "sha256": "ffb739a4047c92f2a1914ca42c6df09427ea218ba501406eb1ebefb0757cc285",
       "download_bytes": 378138,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2800,10 +2800,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/preview-message.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/preview-message.serein-extension",
       "sha256": "338c7d5303b3fb61a26986c8f55e6f145cf0832feddf0e4a830ce6a76fd241f0",
       "download_bytes": 393297,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2833,10 +2833,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Save and quickly switch between different profile themes, bios, and avatars."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/profile-sets.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/profile-sets.serein-extension",
       "sha256": "0f18b4ec86e0e2dc1e4e3da209818d73c7165891ca363791d886ee6c2f04cf2e",
       "download_bytes": 359786,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2860,10 +2860,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/quick-mention.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/quick-mention.serein-extension",
       "sha256": "3181ece2012d3cd1a576f481eff98b32dc77d869b8e017299b3512574f0bea0e",
       "download_bytes": 1216414,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2907,10 +2907,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/quick-reply.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/quick-reply.serein-extension",
       "sha256": "9ffdf76c8b6a24812f57206dd3bef098347fce8d9f97c10958f5d8e85f5aa0b8",
       "download_bytes": 443638,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2940,10 +2940,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Quote selected message text with author attribution using blockquote formatting."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/quoter.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/quoter.serein-extension",
       "sha256": "87b7c2bca0f8cb30d52e012f71b596be8f2178f5e4f8cfe3b1081f9c0f416469",
       "download_bytes": 367414,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -2976,10 +2976,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/relationship-notifier.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/relationship-notifier.serein-extension",
       "sha256": "417ca565ddcea62a219bdebdecc75a05819a9cbaa443874017027e44788c46b7",
       "download_bytes": 1188154,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3010,10 +3010,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Revived Discord image remixing and meme overlay tool."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/remix-revived.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/remix-revived.serein-extension",
       "sha256": "6b31d47fdf6f8a76c666035fe43296923d8a452438fd09cb90f89eea0f557052",
       "download_bytes": 361387,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3044,10 +3044,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Repeat or duplicate messages with a single click."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/repeat-messages.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/repeat-messages.serein-extension",
       "sha256": "5a9bbe4ec593cef346a024b62f2250a7beb709af6c296911ca8598d3d4eb7566",
       "download_bytes": 359031,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3077,10 +3077,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Control default mention ping toggle when replying to messages."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/reply-ping-control.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/reply-ping-control.serein-extension",
       "sha256": "a5b4d233603fd46a688f5863c1f7f4eb552480e296c4d44dada1229ea455eb1e",
       "download_bytes": 359856,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3108,10 +3108,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/reverse-image-search.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/reverse-image-search.serein-extension",
       "sha256": "e3fbff1830bee35e4f99d1a2ce8755dab504ef2af689a78471c5d41714ad39b6",
       "download_bytes": 388049,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3147,10 +3147,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/review-db.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/review-db.serein-extension",
       "sha256": "66abee4933ad127db8caaba03712ae555e00eec9dfe0dfc17e6fd8918b07b920",
       "download_bytes": 467980,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3180,10 +3180,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Parse magnet links in messages and render torrent metadata (name, size, trackers) inline."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/rich-magnet-links.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/rich-magnet-links.serein-extension",
       "sha256": "bcb9fb1db0ab02e516604ea12efedbbcd39c3efbc684b28deadeb458b49b8960",
       "download_bytes": 379633,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3214,10 +3214,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Configurable custom Rich Presence game and activity statuses."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/rich-presence.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/rich-presence.serein-extension",
       "sha256": "494979033f6d9e6510ca1f1d282c7b19970bd74db7814f694007860c5ce2afe1",
       "download_bytes": 361430,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3248,10 +3248,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Advanced live editor for Rich Presence timestamps, assets, and buttons."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/rpc-editor.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/rpc-editor.serein-extension",
       "sha256": "c3878bac23202a7debe77069507344c08a27998561445ede5a9072d1d1847837",
       "download_bytes": 360827,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3282,10 +3282,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Save and persist favorite GIFs locally across sessions and installs."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/save-favorite-gifs.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/save-favorite-gifs.serein-extension",
       "sha256": "33c15f0990c5e179ec6b721d1471ce7e00398606d84d57896c8d430030eba3ad",
       "download_bytes": 364771,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3322,10 +3322,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Queue messages to send at a specific future date and time."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/scheduled-messages.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/scheduled-messages.serein-extension",
       "sha256": "9004ca268218eb53d848d24a357196152a9625dfc4fcc3ca3a9a01178e53a3aa",
       "download_bytes": 360901,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3362,10 +3362,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Advanced search syntax suggestions and filters for chat query building."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/search-fix.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/search-fix.serein-extension",
       "sha256": "fb28f003e5f9cfe21b6ee3fdd1fb31c6c09a080ab5bed6055d46146d64da862c",
       "download_bytes": 360770,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3402,10 +3402,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Apply regex sed-style replacements (s/was/is/g) to the last sent message."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/sed-enhanced.serein-extension",
-      "sha256": "4360a465ac25d79da7a7d5dccd9db8b5755ba8c9a2655438f29186b3bab732a7",
-      "download_bytes": 374173,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/sed-enhanced.serein-extension",
+      "sha256": "5a18c083f6a0b99d0b183a038063b0bae0f7339135fdcd81dfd872093d6483a8",
+      "download_bytes": 374204,
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3435,10 +3435,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Project Sekai sticker collection integration and picker."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/sekai-stickers.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/sekai-stickers.serein-extension",
       "sha256": "bec8f8cdcb974a6492cb0c302d630fa981d04964e0370c6b9c28612f378fd381",
       "download_bytes": 358965,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3466,10 +3466,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/send-timestamps.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/send-timestamps.serein-extension",
       "sha256": "d191b2f4668653e3500ae0fa7aebb79eb587c49cecea981064764a5083ed4b70",
       "download_bytes": 1242047,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3502,10 +3502,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/server-info.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/server-info.serein-extension",
       "sha256": "822afb5e60749ed2e1953205d4f2028b77579305bcde9f78ccd2fcc385b4b7f0",
       "download_bytes": 1225690,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3536,10 +3536,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Display current track and artist from music RPC in chat status."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/show-song-name.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/show-song-name.serein-extension",
       "sha256": "39a9011beab2d39fc9735da20907df3faf567526d33550c81c23506ba30fa1cb",
       "download_bytes": 361445,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3576,10 +3576,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Append a configurable personal signature to every sent message."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/signature.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/signature.serein-extension",
       "sha256": "959f86840e26c053136a732dc87ba8722206f2fdc8dcd1e018f1b70320e62d6c",
       "download_bytes": 412782,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3609,10 +3609,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Locally mute and silence specific participants in active chat channels."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/silence-users.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/silence-users.serein-extension",
       "sha256": "f00438c4591ced6146abbcfc8d4ad0f49e5d40dd2cc8826defe6aecad2038a90",
       "download_bytes": 359850,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3635,10 +3635,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/silent-message-toggle.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/silent-message-toggle.serein-extension",
       "sha256": "4828b7559697a07c98b721b1a53952b12a5773d916a32abca5a820f7a39aba86",
       "download_bytes": 362277,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3668,10 +3668,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Convert music links to song.link universal multi-platform links."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/song-link.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/song-link.serein-extension",
       "sha256": "210ea397cf3071eab15d4221b1db29ed947e353d8e290cda608c19fda7e7034c",
       "download_bytes": 361348,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3701,10 +3701,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Pin a featured song and music player widget to your profile card."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/song-spotlight.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/song-spotlight.serein-extension",
       "sha256": "5976842ebae3eb8be7e6ac474ab1c8f9d82fd441e631a12adbaf4320e18d65b6",
       "download_bytes": 360136,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3743,10 +3743,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/sort-friend-requests.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/sort-friend-requests.serein-extension",
       "sha256": "d35b51f16c78002ce05818c10146f6a120fba2648c6df55624000dc68f29529e",
       "download_bytes": 1172230,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3776,10 +3776,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Auto-split messages exceeding 2000 characters into multiple sequential chunks."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/split-large-messages.serein-extension",
-      "sha256": "352b83842333185aafb1791f837b28f80a27c7fbf92971a7678130db12496eef",
-      "download_bytes": 365401,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/split-large-messages.serein-extension",
+      "sha256": "f8aecd5b5d597d69b55bfcaec7079526d4a3b72e615b86874a2c2c7b59b374aa",
+      "download_bytes": 365291,
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3821,10 +3821,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/spotify-controls.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/spotify-controls.serein-extension",
       "sha256": "639ecb18b8c0039728f67f5a77b7e8d7ea3b0652c6cbd410e48eb0254eed8d47",
       "download_bytes": 378021,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3859,10 +3859,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/spotify-share.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/spotify-share.serein-extension",
       "sha256": "029955ae38633e563f2a0e76e20beb6bbff40039d8ec6503590e7bb0318f287e",
       "download_bytes": 944228,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3892,10 +3892,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "One-click custom status presets (e.g. AFK, Coding, Gaming, Commuting)."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/status-presets.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/status-presets.serein-extension",
       "sha256": "6582e6fad47a4e6ad4da3fbc6c6a58fd0c7d5d0378b900a2469c66e8ede2cbc6",
       "download_bytes": 359794,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3925,10 +3925,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Automatically adjust status and presence while playing games or streaming."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/status-while-active.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/status-while-active.serein-extension",
       "sha256": "e58e89ffd05736697e92c99afed259cdcf1602cf5dc20034a8ae5b899305f402",
       "download_bytes": 359828,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3959,10 +3959,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Sync active Steam games and achievements to Discord Rich Presence."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/steam-status-sync.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/steam-status-sync.serein-extension",
       "sha256": "08abba6b089c3d8c95256e2fec867350c23724c6b2b5b685b01f2427ab5d49a3",
       "download_bytes": 360055,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -3992,10 +3992,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Block large animated stickers or collapse them to lightweight text tokens."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/sticker-blocker.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/sticker-blocker.serein-extension",
       "sha256": "93443e9d2a97bdf0b52f935b75c787874286ad93f7a570fcd0ec0e6bc0ee4c07",
       "download_bytes": 359923,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4025,10 +4025,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Keep channel unread badge until you explicitly scroll to the newest message."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/stop-auto-unread.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/stop-auto-unread.serein-extension",
       "sha256": "af74578f7eb7643ce6b683fa9e3c3de1fbb57307001333133e5b6bd50fb3971c",
       "download_bytes": 359867,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4059,10 +4059,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Track daily communication streaks with friends in direct messages."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/streaks.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/streaks.serein-extension",
       "sha256": "1660206b93c166b2fab73d6a0391a80417fa2fe78ebee2064007de021dd77281",
       "download_bytes": 361394,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4092,10 +4092,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Reverse the text of a message before sending (ʇxǝʇ esreveR)."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/talk-in-reverse.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/talk-in-reverse.serein-extension",
       "sha256": "8d524c31efd96ed8e29bd0893cef1f7ab537c3d2181196fef2a724c19f52ac61",
       "download_bytes": 360223,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4134,10 +4134,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/text-replace.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/text-replace.serein-extension",
       "sha256": "c3f44de52a7ed59ea2c6043cd2f5e068318e93bff3e8ee0da22b4f68d53e1006",
       "download_bytes": 447887,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4167,10 +4167,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Render rich embed cards for Tidal tracks, albums, and playlists."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/tidal-embeds.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/tidal-embeds.serein-extension",
       "sha256": "66468dfd79263831ddaa8dff5da33f1a1e8078bf063dcae669282d0f5a4038b3",
       "download_bytes": 364320,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4200,10 +4200,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Show tooltips explaining tone indicators like /s, /j, /gen, /srs in messages."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/tone-indicators.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/tone-indicators.serein-extension",
       "sha256": "b2c12a87e5009931319b683e54491b21d73708dab725d3a79472bab959299d54",
       "download_bytes": 367947,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4239,10 +4239,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/translate-message.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/translate-message.serein-extension",
       "sha256": "e68451fa67f955a778f6f56a8848d6e4e34431f7885f1136a3e996b63d0cb5e9",
       "download_bytes": 380040,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4279,10 +4279,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Multi-engine translation engine supporting DeepL, Google, and LibreTranslate."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/translate-plus.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/translate-plus.serein-extension",
       "sha256": "ff78d254c4dd3a576acccce33e4dcd5e1a4756177178e22c7e0abba90f48c469",
       "download_bytes": 360746,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4313,10 +4313,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Interactive trivia quiz generator for chat channels."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/trivia-ai.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/trivia-ai.serein-extension",
       "sha256": "09ca08dcf6c64659a91bc57427200641e63ddfbe5b12231e3130c74921182743",
       "download_bytes": 359107,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4339,10 +4339,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/unindent.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/unindent.serein-extension",
       "sha256": "2128dad9230ff4e9bd425b879f257fb46a481eb33f54c4790173142e759c590b",
       "download_bytes": 384329,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4379,10 +4379,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Auto-convert between imperial and metric units (mi/km, °F/°C, lbs/kg) in messages."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/unit-converter.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/unit-converter.serein-extension",
       "sha256": "4a7a5ba67d1fff70969adc3f5abb3629c35af5a0387cc39f16dd1a1c52b76d7c",
       "download_bytes": 367040,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4412,10 +4412,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Fuzzy search and mention users, roles, and channels by name."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/universal-mention.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/universal-mention.serein-extension",
       "sha256": "359adae6c46c17e6b4f56ed57cca98fa3c5dc9d441c201d918fb23266de2ae3b",
       "download_bytes": 361949,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4438,10 +4438,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/unmask-links.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/unmask-links.serein-extension",
       "sha256": "3ee42714674107856bfcfe624e8848534691e08528e681f2d56dc76dc632f19d",
       "download_bytes": 365600,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4471,10 +4471,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Highlight and categorize URLs in chat (safe, tracking, shortened, etc.)."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/url-highlighter.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/url-highlighter.serein-extension",
       "sha256": "55b2024b288499328243aac6cc2d27e5cfd68eafa7803d32e1ddc0ef16c947cf",
       "download_bytes": 369747,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4505,10 +4505,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Quick link and high-resolution downloader for user profile pictures and banners."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/user-pfp.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/user-pfp.serein-extension",
       "sha256": "efa0b6e700598d6e2bb714c2a83b81524684bbdde542e0a358b82eff5ce0e71f",
       "download_bytes": 359104,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4543,10 +4543,10 @@
         "license": "MIT OR Apache-2.0",
         "source": "https://github.com/ViceVerse-cz/Serein"
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/user-pronouns.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/user-pronouns.serein-extension",
       "sha256": "e25a694871fbcbadbde4aa509b115a0a07e1d5f2bb2141107a425b6b25f8c2a8",
       "download_bytes": 1099396,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4572,10 +4572,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/view-icons.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/view-icons.serein-extension",
       "sha256": "e883d80b29a68fd0d0432891dae97ff96aab382ec9c87324244416a1de64daf4",
       "download_bytes": 1221369,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4604,10 +4604,10 @@
           }
         ]
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/view-raw.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/view-raw.serein-extension",
       "sha256": "f6565748a73a4b5310f71f0e18646513a8d6a28bed62ca5cb9225c2ffbb9da78",
       "download_bytes": 1223154,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4637,10 +4637,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Log voice room events (joins, leaves, mutes, deafens) to a local session journal."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/voice-channel-log.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/voice-channel-log.serein-extension",
       "sha256": "c8ffcc7a1ddf99f792501893c81315f33395b0c5e74d4019d22337b6358f616a",
       "download_bytes": 359842,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4670,10 +4670,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Live viewer count and watcher identity inspector for active screen shares."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/whos-watching.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/whos-watching.serein-extension",
       "sha256": "93b2cdd72eb1936add39fb301cabd6dc494981dafe118f6b2519fca6b4aeed30",
       "download_bytes": 359854,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4703,10 +4703,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Apply wavy/wiggly Unicode formatting to composed messages (ẇḭġġḷẏ)."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/wiggly-text.serein-extension",
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/wiggly-text.serein-extension",
       "sha256": "963cfb9bebb520b04af3f3b3424ae137ea657c31ce250df097b3b970b48092ff",
       "download_bytes": 365947,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     },
     {
       "manifest": {
@@ -4748,10 +4748,10 @@
         "source": "https://github.com/ViceVerse-cz/Serein",
         "description": "Format composed text into Title Case, UPPER CASE, or sPoNgE cAsE."
       },
-      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/e6a6a0e88b16bb413a0512e3bb1edbd1b730b082/plugins/packages/write-upper-case.serein-extension",
-      "sha256": "4e4093a3a1e9dd0c1b2f6e6646372716c6f0656739c1f2bfc1fee5e47dc05f15",
-      "download_bytes": 393476,
-      "source_commit": "e6a6a0e88b16bb413a0512e3bb1edbd1b730b082"
+      "release_url": "https://raw.githubusercontent.com/ViceVerse-cz/Serein-extensions/5b3d7e2709fd1df1df2053dc05e7cd82e593fe41/plugins/packages/write-upper-case.serein-extension",
+      "sha256": "7ebd7b45f82068c27afc87285e29d91d03101d3b3d2246178165674633d49418",
+      "download_bytes": 391646,
+      "source_commit": "5b3d7e2709fd1df1df2053dc05e7cd82e593fe41"
     }
   ]
 }
